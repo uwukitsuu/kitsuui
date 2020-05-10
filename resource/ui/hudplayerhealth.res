@@ -5,11 +5,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"170"		
-		"ypos"			"r200"	
+		"xpos"			"c-150"		
+		"ypos"			"c70"	
 		"zpos"			"2"
-		"wide"			"250"
-		"tall"			"250"
+		"wide"			"100"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -20,12 +20,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
-		"xpos_minmode"	"60"
+		"xpos"			"0"
 		"ypos"			"9999"
 		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
 		"visible"		"0"
 		"enabled"		"0"
 		"scaleImage"	"1"	
@@ -34,34 +31,16 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"73"
-		"xpos_minmode"	"58"
+		"xpos"			"0"
 		"ypos"			"9999"
-		"zpos"			"3"
-		"wide"			"55"
-		"tall"			"55"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
-		"xpos_minmode"	"65"	[$WIN32]
-		"xpos"			"83"	[$X360]
-		"ypos"			"9999"	[$WIN32]
-		"ypos_minmode"	"40"	[$WIN32]
-		"ypos"			"0"	[$X360]
-		"zpos"			"2"
-		"wide"			"55"	[$WIN32]
-		"wide_minmode"	"40"	[$WIN32]
-		"wide"			"35"	[$X360]
-		"tall"			"55"	[$WIN32]
-		"tall_minmode"	"40"	[$WIN32]
-		"tall"			"35"	[$X360]
+		"xpos"			"0"
+		"ypos"			"9999"
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/health_over_bg"
@@ -71,8 +50,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"76"
-		"ypos"			"55"	
+		"xpos"			"0"
+		"ypos"			"0"	
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"50"
@@ -80,15 +59,15 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth16"
-		"fgcolor"		"White"
+		"font"			"teahudHealth48"
+		"fgcolor_override"	"TeahudHealth"
 	}
 	"PlayerStatusHealthShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"78"
-		"ypos"			"58"	
+		"xpos"			"2"
+		"ypos"			"1"	
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"50"
@@ -96,7 +75,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth16"
+		"font"			"teahudHealth48"
 		"fgcolor"		"TransparentLightBlack"
 	}
 	"PlayerStatusBleedImage"

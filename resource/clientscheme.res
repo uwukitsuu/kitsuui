@@ -18,7 +18,11 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		// base colors
+		///////////TEAHUD COLORS HERE///////////////////////////
+		
+		"TeahudHealth"		"3 252 177 255"
+		
+		////////////TF2 COLORS HERE////////////////////////////
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
@@ -471,7 +475,7 @@ Scheme
 //
 /////////////////////////TEAHUD FONTS HERE//////////////////////
 //
-		"teahudHealth16"
+		"teahudHealth48"
 		{
 			"1"
 			{
@@ -480,7 +484,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		"teahudAmmo16"
+		"teahudAmmo48"
 		{
 			"1"
 			{
@@ -489,7 +493,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		"teahudAmmo8"
+		"teahudAmmo24"
 		{
 			"1"
 			{

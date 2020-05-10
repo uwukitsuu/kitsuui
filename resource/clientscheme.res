@@ -468,6 +468,41 @@ Scheme
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
+//
+/////////////////////////TEAHUD FONTS HERE//////////////////////
+//
+		"teahudHealth16"
+		{
+			"1"
+			{
+				"name"		"BlackNumbers"
+				"tall"		"48"
+				"antialias"	"1"
+			}
+		}
+		"teahudAmmo16"
+		{
+			"1"
+			{
+				"name"		"BlackNumbers"
+				"tall"		"48"
+				"antialias"	"1"
+			}
+		}
+		"teahudAmmo8"
+		{
+			"1"
+			{
+				"name"		"BlackNumbers"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+
+		
+//
+//////////////////////TF2 FONTS HERE///////////////////////////
+//
 		"Default"
 		{
 			"1"
@@ -5786,58 +5821,16 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
-			"swedish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"spanish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"romanian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"polish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"norwegian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"danish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"hungarian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"german"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"french"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"finnish"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"czech"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"bulgarian"
-			{
-				"range" "0x0000 0x007E"
-			}
-			"russian"
-			{
-				"range" "0x0000 0x007E"
-			}
+		}
+		"8"
+		{
+			"font" "resource/fonts/BlackNumbers.ttf"
+			"name" "BlackNumbers"
+		}
+		"9"
+		{
+			"font" "resource/fonts/LightNumbers.otf"
+			"name" "LightNumbers"
 		}
 	}
 }

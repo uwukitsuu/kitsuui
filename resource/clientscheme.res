@@ -21,6 +21,7 @@ Scheme
 		///////////TEAHUD COLORS HERE///////////////////////////
 		
 		"TeahudHealth"		"3 252 177 255"
+		"TeahudSubAmmo"		"3 252 177 255"
 		
 		////////////TF2 COLORS HERE////////////////////////////
 		"Orange"			"178 82 22 255"
@@ -5830,11 +5831,6 @@ Scheme
 		{
 			"font" "resource/fonts/BlackNumbers.ttf"
 			"name" "BlackNumbers"
-		}
-		"9"
-		{
-			"font" "resource/fonts/LightNumbers.otf"
-			"name" "LightNumbers"
 		}
 	}
 }

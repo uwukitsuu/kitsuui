@@ -5,11 +5,14 @@
 		"fieldName"				"CDamageAccountPanel"
 		"text_x"				"0"
 		"text_y"				"0"
-		"delta_item_end_y"		"0"
-		"PositiveColor"			"0 255 0 255"
-		"NegativeColor"			"255 0 0 255"
+		"delta_item_end_y"		"15"
+		"PositiveColor"			"teahudHealing"
+		"NegativeColor"			"teahudDamage"
+		"EventColor"            "teahudMedicDrop" // med drops
+		"RedRobotScoreColor"    "teahudMedicDrop" // robot destruction
+		"BlueRobotScoreColor"   "teahudMedicDrop" // robot destruction
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontSmall"
-		"delta_item_font_big"	"HudFontMedium"
+		"delta_item_font"		"teahudDamageNum"
+		"delta_item_font_big"	"teahudBigDamageNum"
 	}
 }

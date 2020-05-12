@@ -75,7 +75,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
 		"font"			"teahudAmmo24"
-		"fgcolor"		"TeaHudSubAmmo"
+		"fgcolor"		"teaHudSubAmmo"
 		"xpos"			"59"
 		"ypos"			"14"
 		"zpos"			"7"

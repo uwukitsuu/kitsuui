@@ -206,7 +206,7 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthValue 	FgColor		"TeahudHealth"			Accel 0.0 0.25
+	Animate	PlayerStatusHealthValue 	FgColor		"teahudHealth"			Accel 0.0 0.25
 	RunEvent HudHealthBonusPulseLoop	0.1
 }
 event HudHealthBonusPulseLoop
@@ -226,7 +226,7 @@ event HudHealthBonusPulseStop
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthValue 	FgColor		"TeahudDyingHealth"		Accel 0.0 0.25
+	Animate	PlayerStatusHealthValue 	FgColor		"teahudDyingHealth"		Accel 0.0 0.25
 	Animate	PlayerStatusHealthValue 	Alpha		"200"				Linear 0.0 0.05
 	RunEvent HudHealthDyingPulseLoop	0.1
 }
@@ -247,8 +247,8 @@ event HudHealthDyingPulseStop
 
 event HudLowAmmoPulse
 {
-	Animate AmmoInReserve			FgColor	"TeahudDyingHealth"	Accel		0.0		0.25
-	Animate AmmoNoClip 				FgColor "TeahudDyingHealth"	Accel		0.0		0.25
+	Animate AmmoInReserve			FgColor	"teahudDyingHealth"	Accel		0.0		0.25
+	Animate AmmoNoClip 				FgColor "teahudDyingHealth"	Accel		0.0		0.25
 	Animate	AmmoInReserve 			Alpha		"200"				Linear 0.0 0.05
 	Animate	AmmoNoClip				Alpha		"200"				Linear 0.0 0.05
 	RunEvent HudLowAmmoPulseLoop	0.1
@@ -262,7 +262,7 @@ event HudLowAmmoPulseLoop
 
 event HudLowAmmoPulseStop
 {
-	Animate AmmoInReserve			FgColor	"TeahudSubAmmo" 	Accel		0.0		0.25
+	Animate AmmoInReserve			FgColor	"teahudSubAmmo" 	Accel		0.0		0.25
 	Animate AmmoNoClip 				FgColor "White" 			Accel		0.0		0.25
 	
 	StopEvent HudLowAmmoPulse 0.1

@@ -20,9 +20,12 @@ Scheme
 	{
 		///////////TEAHUD COLORS HERE///////////////////////////
 		
-		"TeahudHealth"		"3 252 177 255"
-		"TeahudSubAmmo"		"3 252 177 255"
-		"TeahudDyingHealth"	"235 85 52 255"
+		"teahudHealth"		"3 252 177 255"
+		"teahudSubAmmo"		"3 252 177 255"
+		"teahudDyingHealth"	"235 85 52 255"
+		"teahudHealing"		"52 235 137 255"
+		"teahudDamage"		"255 213 28 255"
+		"teahudMedicDrop"	"255 18 109 255"
 		
 		////////////TF2 COLORS HERE////////////////////////////
 		"Orange"			"178 82 22 255"
@@ -486,6 +489,15 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"teahudHealth16"
+		{
+			"1"
+			{
+				"name"		"BlackNumbers"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
 		"teahudAmmo48"
 		{
 			"1"
@@ -504,6 +516,36 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"teahudDamageNum"
+		{
+			"1"
+			{
+				"name" 		"BlackNumbers"
+				"tall"		"16"
+				"antialias"	"1"
+				"weight" 	"200"
+			}
+		}
+		"teahudBigDamageNum"
+		{
+			"1"
+			{
+				"name" 		"BlackNumbers"
+				"tall"		"24"
+				"antialias"	"1"
+				"weight" 	"500"
+			}
+		}
+		"Avenir16"
+		{
+			"1"
+			{
+				"name" 		"Avenir"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		
 
 		
 //
@@ -5832,6 +5874,11 @@ Scheme
 		{
 			"font" "resource/fonts/BlackNumbers.ttf"
 			"name" "BlackNumbers"
+		}
+		"9"
+		{
+			"font" "resource/fonts/AvenirLTStd-Black.otf"
+			"name" "Avenir"
 		}
 	}
 }

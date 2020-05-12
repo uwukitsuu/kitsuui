@@ -536,12 +536,43 @@ Scheme
 				"weight" 	"500"
 			}
 		}
-		"Avenir16"
+		
+		"Kimberley16"
 		{
 			"1"
 			{
-				"name" 		"Avenir"
+				"name" 		"Kimberley"
 				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		"Kimberley8"
+		{
+			"1"
+			{
+				"name" 		"Kimberley"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
+		
+		"AvenirHeavy12"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Heavy"
+				"tall"		"12"
+				"weight"	"900"
+				"antialias"	"1"
+			}
+		}
+		"AvenirHeavy8"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Heavy"
+				"tall"		"8"
+				"weight"	"700"
 				"antialias"	"1"
 			}
 		}
@@ -5877,8 +5908,28 @@ Scheme
 		}
 		"9"
 		{
+			"font" "resource/fonts/KimberleyBl-Regular.ttf"
+			"name" "Kimberley"
+		}
+		"10"
+		{
 			"font" "resource/fonts/AvenirLTStd-Black.otf"
-			"name" "Avenir"
+			"name" "AvenirLTStd-Black"
+		}
+		"11"
+		{
+			"font" "resource/fonts/AvenirLTStd-Medium.otf"
+			"name" "AvenirLTStd-Medium"
+		}
+		"12"
+		{
+			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
+			"name" "AvenirLTStd-Heavy"
+		}
+		"13"
+		{
+			"font" "resource/fonts/AvenirLTStd-Book.otf"
+			"name" "AvenirLTStd-Book"
 		}
 	}
 }

@@ -87,6 +87,21 @@
 		"font"			"teahudHealth16"
 		"fgcolor"		"TransparentLightBlack"
 	}
+	"PlayerStatusBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusBG"
+		"xpos"			"0"
+		"ypos"			"5"
+		"zpos"			"0"
+		"wide"			"32"
+		"tall"			"15"
+		"fillcolor"		"TransparentLightBlack"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+	}
 	"PlayerStatusPlayerLevel"
 	{
 		"ControlName"	"CExLabel"

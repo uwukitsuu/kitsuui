@@ -22,6 +22,7 @@ Scheme
 		
 		"TeahudHealth"		"3 252 177 255"
 		"TeahudSubAmmo"		"3 252 177 255"
+		"TeahudDyingHealth"	"235 85 52 255"
 		
 		////////////TF2 COLORS HERE////////////////////////////
 		"Orange"			"178 82 22 255"

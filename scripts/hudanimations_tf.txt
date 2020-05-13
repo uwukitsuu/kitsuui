@@ -227,12 +227,12 @@ event HudHealthBonusPulseStop
 event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthValue 	FgColor		"teahudDyingHealth"		Accel 0.0 0.2
-	Animate	PlayerStatusHealthValue 	Alpha		"200"				Linear 0.0 0.05
+	//Animate	PlayerStatusHealthValue 	Alpha		"200"				Linear 0.0 0.05
 	RunEvent HudHealthDyingPulseLoop	0.1
 }
 event HudHealthDyingPulseLoop
 {
-	Animate	PlayerStatusHealthValue		Alpha		"255"			Linear 0.0 0.05
+	//Animate	PlayerStatusHealthValue		Alpha		"255"			Linear 0.0 0.05
 	RunEvent HudHealthDyingPulse 0.1
 }
 

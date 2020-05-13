@@ -78,6 +78,27 @@
 		"fieldName"		"TargetNameLabel"
 		"font"			"AvenirHeavy12"
 		"xpos"			"8"
+		"ypos"			"9999"
+		"zpos"			"1"
+		"wide"			"640"
+		"tall"			"24"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%targetname%"
+		"textAlignment"	"North-West"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"fgcolor_override"		"White"
+		"alpha"			"0"
+	}
+	"TargetNameLabel2"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"TargetNameLabel2"
+		"font"			"AvenirHeavy12"
+		"xpos"			"41"
 		"ypos"			"8"
 		"zpos"			"1"
 		"wide"			"640"
@@ -91,6 +112,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor_override"		"White"
+		"alpha"			"255"
 	}
 	"TargetDataLabel"
 	{	
@@ -109,9 +131,10 @@
 		"labelText"		"%targetdata%"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
-		"brighttext"	"0"
+		"brighttext"	"1"
 		"fgcolor_override"		"White"
-	}
+		"alpha"			"255"
+	}	
 	"SpectatorGUIHealth"
 	{
 		"ControlName"		"EditablePanel"
@@ -136,7 +159,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
 		"xpos"			"32"
-		"ypos"			"25"
+		"ypos"			"9999"
 		"zpos"			"12"
 		"wide"			"8"
 		"tall"			"8"
@@ -193,8 +216,8 @@
 		}
 		"Haul"
 		{	
-			"ControlName"	"Label"
-			"fieldName"		"yoink"
+			"ControlName"	"CExLabel"
+			"fieldName"		"haul"
 			"font"			"AvenirHeavy8"
 			"xpos"			"0"
 			"ypos"			"13"
@@ -210,13 +233,8 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			
+			"fgcolor"		"White"
 			"bgcolor_override"	"TransparentLightBlack"
-			"paintbackgroundtype"	"2"
-			
-			"pin_to_sibling"	"MoveableKeyLabel"
-			"pin_corner_to_sibling"	"7"
-			"pin_to_sibling_corner"	"7"
 		}
 		"SubPanel"
 		{

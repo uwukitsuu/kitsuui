@@ -195,11 +195,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
+		"xpos"					"c75"
+		"ypos"					"c-5"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -210,8 +207,8 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-120"
-		"ypos"					"c40"
+		"xpos"					"c-107"
+		"ypos"					"c110"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -251,8 +248,8 @@
 		"fieldName" 	"CMainTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-106"
-		"ypos"		"260"
+		"xpos"		"c-126"
+		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
 	}
@@ -262,7 +259,7 @@
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"c-106"
 		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
@@ -273,7 +270,7 @@
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"c-106"
 		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"

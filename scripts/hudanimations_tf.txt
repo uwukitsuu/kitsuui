@@ -249,14 +249,10 @@ event HudLowAmmoPulse
 {
 	Animate AmmoInReserve			FgColor	"teahudDyingHealth"	Accel		0.0		0.2
 	Animate AmmoNoClip 				FgColor "teahudDyingHealth"	Accel		0.0		0.2
-	Animate	AmmoInReserve 			Alpha		"200"				Linear 0.0 0.05
-	Animate	AmmoNoClip				Alpha		"200"				Linear 0.0 0.05
 	RunEvent HudLowAmmoPulseLoop	0.0
 }
 event HudLowAmmoPulseLoop
 {
-	Animate	AmmoInReserve 			Alpha		"255"				Linear 0.0 0.05
-	Animate	AmmoNoClip				Alpha		"255"				Linear 0.0 0.05
 	RunEvent HudLowAmmoPulse 0.0
 }
 
@@ -424,28 +420,28 @@ event HudTournamentSetupPanelClose
 
 event HudMedicCharged
 {
-	Animate	ChargeLabel 	FgColor		"TanLight"		Linear 0.0 0.1
-	Animate	ChargeLabel 	FgColor		"TanDarker"		Linear 0.3 0.4
-	
-	Animate	ChargeMeter 	FgColor		"TanLight"		Linear 0.0 0.1
-	Animate	ChargeMeter 	FgColor		"TanDarker"		Linear 0.3 0.4
-
-	RunEvent HudMedicChargedLoop	0.6
+	Animate	ChargeLabel 	FgColor		"teahudHealth"	Accel 0.0 0.2
+	RunEvent HudMedicChargedLoop	0.2
 }
 
-// call to loop HudHealthBonusPulse
+event HudMedCharged
+{
+	RunEvent HudMedicChargedLoop	0.0
+}
+
+
 event HudMedicChargedLoop
 {
-	RunEvent HudMedicCharged 0.0
+	RunEvent HudMedCharged 0.0
 }
 
 event HudMedicChargedStop
 {
-	StopEvent HudMedicCharged 0.0
+	StopEvent HudMedCharged 0.0
 	StopEvent HudMedicChargedLoop 0.0
 	
-	Animate	ChargeLabel 	FgColor		"TanLight"		Linear 0.0 0.0001
-	Animate	ChargeMeter 	FgColor		"TanLight"		Linear 0.0 0.0001
+	Animate	ChargeLabel 	FgColor		"White"		Accel 0.0 0.2
+	Animate	ChargeLabel 	Alpha		"255"		Accel 0.0 0.1
 }
 
 //====================================

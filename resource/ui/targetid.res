@@ -279,8 +279,6 @@
 			"image"			"../hud/eng_sel_item_movable"
 			"drawcolor"		"ProgressOffWhite"
 			"scaleImage"	"1"
-			
-			"proportionaltoparent"	"1"
 		}
 
 		"MoveableKeyLabel"

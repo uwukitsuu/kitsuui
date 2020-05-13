@@ -556,6 +556,16 @@ Scheme
 			}
 		}
 		
+		"AvenirHeavy24"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Heavy"
+				"tall"		"24"
+				"weight"	"900"
+				"antialias"	"1"
+			}
+		}
 		"AvenirHeavy12"
 		{
 			"1"

@@ -17,7 +17,8 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c50"	
-		"ypos"	"c70"	
+		"ypos"	"c70"
+		"zpos"	"0"
 		"wide"	"100"
 		"tall"	"50"
 	}
@@ -278,15 +279,9 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"xpos_hidef"		"32"
-		"xpos_lodef"		"40"
 		"ypos"		"0"
-		"ypos_hidef"		"16"
-		"ypos_lodef"		"25"
 		"wide"		"640"
 		"tall"		"480"
-		
-		"PaintBackgroundType"	"2"
 	}
 	
 	HudMannVsMachineStatus

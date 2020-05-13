@@ -113,9 +113,9 @@ Scheme
 		"StoreGreen"			"76 107 34 255"
 		
 		// Building HUD Specific
-		"LowHealthRed"		"255 0 0 255"
-		"ProgressOffWhite"	"251 235 202 255"
-		"ProgressBackground"	"250 234 201 51"
+		"LowHealthRed"		"235 85 52 255"
+		"ProgressOffWhite"	"255 255 255 255"
+		"ProgressBackground"	"0 0 0 196"
 		"HealthBgGrey"		"72 71 69 255"
 		
 		"ProgressOffWhiteTransparent"	"251 235 202 128"
@@ -332,15 +332,15 @@ Scheme
 
 		HTML.BgColor					"Blank"
 
-		ProgressBar.FgColor				"ProgressOffWhite"
-		ProgressBar.BgColor				"ProgressBackground"
+		ProgressBar.FgColor				"White"
+		ProgressBar.BgColor				"TransparentBlack"
 
 		CircularProgressBar.FgColor		"White"
 		CircularProgressBar.BgColor		"White"
 		
-		"BuildingHealthBar.BgColor"		"HealthBgGrey"
-		"BuildingHealthBar.Health"		"ProgressOffWhite"
-		"BuildingHealthBar.LowHealth"	"LowHealthRed"
+		"BuildingHealthBar.BgColor"		"TransparentBlack"
+		"BuildingHealthBar.Health"		"White"
+		"BuildingHealthBar.LowHealth"	"teahudDyingHealth"
 
 		PropertySheet.TextColor			"Orange"
 		PropertySheet.SelectedTextColor	"Orange"

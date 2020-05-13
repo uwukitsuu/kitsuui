@@ -26,9 +26,10 @@
 		"wide"			"f0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"tabPosition"	"0"
+		"alpha"			"0"
 	}
 	"BottomBar"
 	{
@@ -43,9 +44,10 @@
 		"tall"			"90"	[$X360]		
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"		"0"
+		"alpha"			"0"
 	}
 	"bottombarblank"
 	{
@@ -61,10 +63,10 @@
 		"wide"			"f0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"visible_minmode"		"0"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"		"0"
+		"alpha"			"0"
 	}
 	"ReinforcementsLabel"
 	{

@@ -8,9 +8,7 @@
 		"tall"			"30"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-
-		"paintbackground"	"0"
-		"bgcolor_override"	"255 0 0 250"
+		"bgcolor_override"	"0 0 0 200"
 	}
 
 	"text"

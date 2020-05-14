@@ -90,7 +90,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
-			"font"			"DefaultVerySmall"
+			"font"			"AvenirHeavy8"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"
@@ -228,7 +228,6 @@
 			"dulltext"		"0"
 			"brighttext"	"0"	
 			"fgcolor_override"	"White"
-			"bgcolor_override"	"TransparentLightBlack"
 		}
 		
 		"BuildingPanel"
@@ -277,7 +276,6 @@
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"fgcolor_override"	"White"
-				"bgcolor_override"	"TransparentLightBlack"
 			}
 		}
 		
@@ -426,7 +424,7 @@
 				"enabled"		"1"
 				"textAlignment"	"Left"
 				"dulltext"		"0"
-				"brighttext"	"0"
+				"brighttext"	"100"
 			}
 		}
 	}

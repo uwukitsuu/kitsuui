@@ -7,6 +7,7 @@
 		"enabled" "1"
 		"xpos"	"0"
 		"ypos"	"0"
+		"ypos_minmode"	"9999"
 		"wide"	"f0"
 		"tall"	"480"
 	}
@@ -18,6 +19,7 @@
 		"enabled" "1"
 		"xpos"	"c50"	
 		"ypos"	"c70"
+		"ypos_minmode"	"9999"
 		"zpos"	"0"
 		"wide"	"100"
 		"tall"	"50"
@@ -30,6 +32,7 @@
 		"enabled" "1"
 		"xpos"	"0"
 		"ypos"	"0"
+		"ypos_minmode"	"9999"
 		"wide"	"f0"
 		"tall"	"480"
 	}	
@@ -41,6 +44,7 @@
 		"enabled" "1"
 		"xpos"	"c-100"
 		"ypos"	"0"
+		"ypos_minmode"	"9999"
 		"wide"	"200"
 		"tall"	"160"
 		
@@ -58,6 +62,7 @@
 		"enabled"		"1"
 		"xpos"			"0"
 		"ypos"			"0"	
+		"ypos_minmode"	"9999"
 		"wide"			"100"
 		"tall"			"50"
 	}
@@ -69,6 +74,7 @@
 		"enabled"		"1"
 		"xpos"	"c50"	
 		"ypos"	"c75"	
+		"ypos_minmode"	"9999"
 		"wide"	"100"
 		"tall"	"100"
 	}
@@ -80,6 +86,7 @@
 		"enabled"		"1"
 		"xpos"			"c-25"	
 		"ypos"			"c112"
+		"ypos_minmode"	"9999"
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"2"
@@ -94,6 +101,7 @@
 		"enabled"		"0"
 		"xpos"			"c-27"	
 		"ypos"			"c120"
+		"ypos_minmode"	"9999"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
@@ -178,6 +186,7 @@
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c75"
 		"ypos"					"c-5"
+		"ypos_minmode"			"9999"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -190,6 +199,7 @@
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"c-107"
 		"ypos"					"c110"
+		"ypos_minmode"			"9999"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -215,13 +225,12 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	[$WIN32]
-		"ypos"		"r70"	[$WIN32]
-		"xpos"		"50"	[$X360]
-		"ypos"		"330"	[$X360]
+		"xpos"		"10"	
+		"ypos"		"r70"	
+		"ypos_minmode"		"9999"
 		"wide"		"500"
 		"tall"		"200"
-		"TextFont"	"Default"	[$X360]
+		"TextFont"	"Default"	
 	}
 
 	CMainTargetID
@@ -263,10 +272,9 @@
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"32"	[$X360]
-		"ypos"		"16"	[$X360]		
+		"xpos"		"0"
+		"ypos"		"0"	
+		"ypos_minmode"	"9999"		
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -280,6 +288,7 @@
 		"enabled"	"1"
 		"xpos"		"0"
 		"ypos"		"0"
+		"ypos_minmode"	"9999"
 		"wide"		"640"
 		"tall"		"480"
 	}
@@ -303,6 +312,7 @@
 		"fieldName" "HudProgressBar"
 		"xpos"	"c-150"
 		"ypos"	"300"
+		"ypos_minmode"	"9999"
 		"wide"	"300"
 		"tall"  "15"
 		"visible" "1"
@@ -318,6 +328,7 @@
 		"fieldName" "HudRoundTimer"
 		"xpos"	"c-20"
 		"ypos"	"440"
+		"ypos_minmode"	"9999"
 		"wide"	"120"
 		"tall"  "40"
 		"visible" "1"
@@ -418,6 +429,8 @@
 		"fieldName" "HudCrosshair"
 		"visible" "1"
 		"enabled" "1"
+		"enabled_minmode"	"0"
+		"visible_minmode"	"0"
 		"wide"	 "640"
 		"tall"	 "480"
 	}
@@ -439,14 +452,14 @@
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		"CornerRadius"		"0"
 		
-		"TextFont"		"AvenirHeavy8"
+		"TextFont"		"AvenirBlack12"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
 		"IconColor"		"White"
 		"LocalPlayerColor"	"Black"
 
-		"BaseBackgroundColor"	"46 43 42 180"		
+		"BaseBackgroundColor"	"46 43 42 200"		
 		"LocalBackgroundColor"	"230 230 230 255"
 	}
 
@@ -763,6 +776,7 @@
 		"fieldName"				"HudControlPointIcons"
 		"xpos"					"0"
 		"ypos"					"410"
+		"ypos_minmode"			"9999"
 		"wide"					"f0"
 		"tall"					"200"
 		"visible"				"1"
@@ -778,6 +792,7 @@
 		"fieldName"				"HudCapturePanel"
 		"xpos"					"c-75"
 		"ypos"					"c80"
+		"ypos_minmode"			"9999"
 		"wide"					"150"
 		"tall"					"90"
 		"visible"				"1"
@@ -925,6 +940,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-225"
 		"ypos"			"c-55"
+		"ypos_minmode"	"9999"
 		"wide"			"450"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -937,6 +953,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-225"
 		"ypos"			"c-59"
+		"ypos_minmode"	"9999"
 		"wide"			"450"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
@@ -949,6 +966,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-125"
 		"ypos"			"c-55"
+		"ypos_minmode"	"9999"
 		"wide"			"250"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -961,11 +979,9 @@
 		"enabled" 		"1"
 		"xpos"			"c-235"
 		"ypos"			"c-52"
-		"ypos_hidef"	"c-42"
-		"ypos_lodef"	"c-42"
+		"ypos_minmode"	"9999"
 		"wide"			"470"
-		"tall"			"200"	[$WIN32]
-		"tall"			"180"	[$X360]
+		"tall"			"200"	
 		"PaintBackgroundType"	"0"
 	}	
 	
@@ -975,7 +991,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-56"	
-		"ypos"			"c75"	
+		"ypos"			"c75"
+		"ypos_minmode"	"9999"
 		"wide"			"100"
 		"tall"			"50"
 	}	
@@ -1335,9 +1352,8 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-235"
-		"ypos"			"c-52"
-		"ypos_hidef"	"c-42"
-		"ypos_lodef"	"c-42"
+		"ypos"			"c-200"
+		"ypos_minmode"	"9999"
 		"wide"			"470"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"

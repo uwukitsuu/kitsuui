@@ -524,6 +524,7 @@
 		"enabled" "1"
 		"wide"	 "640"
 		"tall"	 "480"
+		"ypos_minmode"		"9999"
 		"zpos" "1"
 
 		"TextFont"				"Default"

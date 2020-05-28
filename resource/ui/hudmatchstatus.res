@@ -518,9 +518,9 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"AvenirBlack4"
+				"font"			"AvenirBlack8"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				"ypos"			"5"
 				"zpos"			"7"
 				"wide"			"f0"
 				"tall"			"16"

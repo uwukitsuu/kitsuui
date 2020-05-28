@@ -23,7 +23,7 @@
 		"fieldName"		"ChargeLabel"
 		"xpos"			"120"
 		"ypos"			"-5"
-		"zpos"			"1"
+		"zpos"			"3"
 		"wide"			"90"
 		"tall"			"50"
 		"autoResize"	"1"
@@ -44,7 +44,7 @@
 		"fieldName"		"ChargeLabelShadow"
 		"xpos"			"122"
 		"ypos"			"-4"
-		"zpos"			"0"
+		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"50"
 		"autoResize"	"1"
@@ -57,16 +57,16 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"teahudAmmo48"
-		"fgcolor"		"TransparentLightBlack"
+		"fgcolor_override"		"TransparentLightBlack"
 	}
 
 	"IndividualChargesLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"IndividualChargesLabel"
-		"xpos"			"25"
+		"xpos"			"120"
 		"ypos"			"-5"
-		"zpos"			"2"
+		"zpos"			"4"
 		"wide"			"90"
 		"tall"			"50"
 		"autoResize"	"1"
@@ -81,7 +81,6 @@
 		"font"			"teahudAmmo48"
 		"fgcolor_override"	"White"
 	}
-	
 	"ChargeMeter"
 	{	
 		"ControlName"	"ContinuousProgressBar"
@@ -205,7 +204,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ResistIcon"
-		"xpos"			"-20"
+		"xpos"			"150"
 		"ypos"			"10"
 		"wide"			"24"
 		"tall"			"24"

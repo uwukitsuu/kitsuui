@@ -47,7 +47,7 @@
 		"textAlignment_minmode"	"west"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#TF_ENERGYDRINK"
+		"labelText"				"Drink"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"

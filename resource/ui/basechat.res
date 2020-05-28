@@ -61,7 +61,7 @@
 		"enabled" "1"
 		"labelText" ""
 		"textAlignment" "south-west"
-		"font" "AvenirHeavy 8"
+		"font" "AvenirHeavy8"
 		"maxchars" "-1"
 }
 }

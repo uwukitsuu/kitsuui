@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 	"$translucent" "1"
-	"$baseTexture" "buildings\hud_obj_status_tele_exit"
+	"$baseTexture" "vgui\logos\buildings\hud_obj_status_sentry_1"
 	"$alpha" "1"
 	"$vertexalpha" "1"	
 	"$vertexcolor" "1"

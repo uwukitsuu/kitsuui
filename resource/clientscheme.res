@@ -536,6 +536,15 @@ Scheme
 				"weight" 	"500"
 			}
 		}
+		"teahudRespawnMatchNum"
+		{
+			"1"
+			{
+				"name" 		"BlackNumbers"
+				"tall"		"10"
+				"antialias"	"1"
+			}
+		}
 		
 		"Kimberley16"
 		{
@@ -596,12 +605,33 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
 		"AvenirBlack12"
 		{
 			"1"
 			{
 				"name" 		"AvenirLTStd-Black"
 				"tall"		"12"
+				"weight"	"700"
+				"antialias"	"1"
+			}
+		}
+		"AvenirBlack8"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Black"
+				"tall"		"8"
+				"weight"	"700"
+				"antialias"	"1"
+			}
+		}
+		"AvenirBlack4"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Black"
+				"tall"		"4"
 				"weight"	"700"
 				"antialias"	"1"
 			}

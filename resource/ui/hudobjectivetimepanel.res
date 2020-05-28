@@ -5,17 +5,11 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TimePanelBG"
 		"xpos"			"16"
-		"xpos_minmode"	"35"
-		"xpos_hidef"	"108"
-		"xpos_lodef"	"108"
 		"ypos"			"9"
+		"ypos_minmode"	"9999"
 		"zpos"			"2"
 		"wide"			"78"
-		"wide_minmode"	"38"
-		"wide_lodef"	"90"
 		"tall"			"33"
-		"tall_minmode"	"23"
-		"tall_lodef"	"38"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_blue_bg"	
@@ -81,9 +75,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubTextTiny"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"AvenirBlack12"
 
 		if_match
 		{
@@ -92,9 +84,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"AvenirBlack12"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -125,19 +115,10 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"OvertimeLabel"
 		"xpos"			"16"
-		"xpos_hidef"	"0"
-		"xpos_lodef"	"0"
 		"ypos"			"33"
-		"ypos_minmode"	"24"
-		"ypos_hidef"	"41"
-		"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
-		"wide_hidef"	"300"
-		"wide_lodef"	"300"
 		"tall"			"19"
-		"tall_hidef"	"19"
-		"tall_lodef"	"22"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_Overtime"
@@ -145,9 +126,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"AvenirBlack12"
 
 		if_match
 		{
@@ -156,9 +135,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"AvenirBlack12"
 		}
 	}			
 	"OvertimeBG"
@@ -192,16 +169,9 @@
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
 		"ypos"			"33"
-		"ypos_minmode"	"24"
-		"ypos_hidef"	"41"
-		"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
-		"wide_hidef"	"300"
-		"wide_lodef"	"300"
 		"tall"			"19"
-		"tall_hidef"	"19"
-		"tall_lodef"	"22"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_SuddenDeath"
@@ -209,9 +179,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubTextSuddenDeath"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"AvenirBlack12"
 
 		if_match
 		{
@@ -220,9 +188,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"AvenirBlack12"
 		}
 	}			
 	"SuddenDeathBG"
@@ -273,10 +239,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
-		"font_minmode"	"ClockSubTextSuddenDeath"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"AvenirBlack12"
 
 		if_match
 		{
@@ -285,9 +248,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"AvenirBlack12"
 		}
 	}	
 	"SetupBG"
@@ -338,10 +299,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
-		"font_minmode"	"ClockSubTextSuddenDeath"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"AvenirBlack12"
 
 		if_match
 		{
@@ -350,9 +308,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"AvenirBlack12"
 		}
 	}	
 	"ServerTimeLimitLabelBG"

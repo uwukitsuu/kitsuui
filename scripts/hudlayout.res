@@ -42,17 +42,15 @@
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-100"
-		"ypos"	"0"
+		"xpos"	"c-99"
+		"ypos"	"-12"
 		"ypos_minmode"	"9999"
 		"wide"	"200"
 		"tall"	"160"
 		
 		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
 	
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
 	}	
 
 	HudItemEffectMeter
@@ -72,10 +70,10 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"	"c50"	
+		"xpos"	"c-50"	
 		"ypos"	"c75"	
 		"ypos_minmode"	"9999"
-		"wide"	"100"
+		"wide"	"250"
 		"tall"	"100"
 	}
 	
@@ -198,10 +196,11 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"c-107"
-		"ypos"					"c110"
+		"ypos"					"c60"
+		"zpos"					"0"
 		"ypos_minmode"			"9999"
 		"wide"					"116"
-		"tall"  				"180"
+		"tall"  				"200"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -261,7 +260,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-106"
-		"ypos"		"285"
+		"ypos"		"280"
 		"wide"	 	"252"
 		"tall"	 	"35"
 
@@ -441,18 +440,18 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"	
-		"ypos"	 "18"	
+		"ypos"	 "20"	
 		"wide"	 "628"
 		"tall"	 "468"
 
 		"MaxDeathNotices" "6"
-		"IconScale"	  "0.35"
-		"LineHeight"	  "16"
-		"LineSpacing"	  "4"
+		"IconScale"	  "0.20"
+		"LineHeight"	  "10"
+		"LineSpacing"	  "2"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		"CornerRadius"		"0"
 		
-		"TextFont"		"AvenirBlack12"
+		"TextFont"		"AvenirBlack8"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"

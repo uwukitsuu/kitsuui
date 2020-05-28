@@ -606,6 +606,16 @@ Scheme
 			}
 		}
 		
+		"AvenirBlack24"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Black"
+				"tall"		"24"
+				"weight"	"700"
+				"antialias"	"1"
+			}
+		}
 		"AvenirBlack12"
 		{
 			"1"

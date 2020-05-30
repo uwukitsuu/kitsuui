@@ -360,7 +360,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"12"	[$WIN32]
 				"tall"		"15"	[$X360]
 				"weight"	"700"
@@ -369,7 +369,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"14"	[$WIN32]
 				"tall"		"17"	[$X360]
 				"weight"	"700"
@@ -378,7 +378,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"15"	[$WIN32]
 				"tall"		"18"	[$X360]
 				"weight"	"700"
@@ -387,7 +387,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"17"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"700"
@@ -396,7 +396,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"22"	[$WIN32]
 				"tall"		"25"	[$X360]
 				"weight"	"700"

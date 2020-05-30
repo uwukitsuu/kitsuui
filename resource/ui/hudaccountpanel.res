@@ -8,7 +8,7 @@
 		"PositiveColor"			"teahudHealing"
 		"NegativeColor"			"teahudDamage"
 		"delta_lifetime"		"1"
-		"delta_item_font"		"teahudDamageNum"
+		"delta_item_font"		"AvenirHeavy16"
 	}
 	
 	"AccountBG"
@@ -64,7 +64,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"teahudDamageNum"
+		"font"			"AvenirHeavy16"
 		"fgcolor"		"White"
 	}
 }

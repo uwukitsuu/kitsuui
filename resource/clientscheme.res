@@ -585,6 +585,16 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"AvenirHeavy16"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Heavy"
+				"tall"		"16"
+				"weight"	"900"
+				"antialias"	"1"
+			}
+		}
 		"AvenirHeavy12"
 		{
 			"1"
@@ -606,6 +616,16 @@ Scheme
 			}
 		}
 		
+		"AvenirBlack48"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Black"
+				"tall"		"48"
+				"weight"	"700"
+				"antialias"	"1"
+			}
+		}
 		"AvenirBlack24"
 		{
 			"1"
@@ -657,7 +677,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -665,7 +685,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"900"
@@ -674,7 +694,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -683,7 +703,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -692,7 +712,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -701,14 +721,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -2060,7 +2080,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2068,7 +2088,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -2076,7 +2096,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -2084,7 +2104,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -2092,7 +2112,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2103,7 +2123,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2111,7 +2131,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -2119,7 +2139,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -2127,7 +2147,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -2135,7 +2155,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirHeavy-LTSd"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"

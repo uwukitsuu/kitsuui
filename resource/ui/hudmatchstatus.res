@@ -76,7 +76,7 @@
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"White"
 
 		if_readymode
 		{
@@ -146,14 +146,14 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MatchDoors"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"9999"
 		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"f0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"fov"			"70"
 		"proportionaltoparent"	"1"
 		

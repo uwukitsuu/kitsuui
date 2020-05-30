@@ -12,7 +12,7 @@
 		"RedRobotScoreColor"    "teahudMedicDrop" // robot destruction
 		"BlueRobotScoreColor"   "teahudMedicDrop" // robot destruction
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"teahudDamageNum"
-		"delta_item_font_big"	"teahudBigDamageNum"
+		"delta_item_font"		"AvenirHeavy16"
+		"delta_item_font_big"	"AvenirHeavy24"
 	}
 }

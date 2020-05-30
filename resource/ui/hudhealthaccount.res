@@ -9,6 +9,6 @@
 		"PositiveColor"			"teahudHealing"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1"
-		"delta_item_font"		"teahudDamageNum"
+		"delta_item_font"		"AvenirHeavy16"
 	}
 }

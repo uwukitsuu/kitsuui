@@ -90,7 +90,7 @@
 		"textAlignment"	"North-West"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"		"White"
+		"fgcolor_override"		"teahudLightWhite"
 		"alpha"			"0"
 	}
 	"TargetNameLabel2"
@@ -111,7 +111,7 @@
 		"textAlignment"	"North-West"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"		"White"
+		"fgcolor_override"		"teahudLightWhite"
 		"alpha"			"255"
 	}
 	"TargetDataLabel"
@@ -132,7 +132,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"fgcolor_override"		"White"
+		"fgcolor_override"		"teahudLightWhite"
 		"alpha"			"255"
 	}	
 	"SpectatorGUIHealth"
@@ -151,7 +151,7 @@
 		"HealthDeathWarning"	"0.49"
 		"TFFont"		"HudFontSmall"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"fgcolor_override"		"White"
+		"fgcolor_override"		"teahudLightWhite"
 	}	
 	
 	"AmmoIcon"
@@ -173,7 +173,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"KillStreakIcon"
-		"xpos"			"35"
+		"xpos"			"45"
 		"ypos"			"26"
 		"zpos"			"12"
 		"wide"			"8"
@@ -181,7 +181,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/leaderboard_streak"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"teahudLightWhite"
 		"scaleImage"	"1"
 	}
 	"MoveableSubPanel"
@@ -208,7 +208,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"icon"			"obj_status_alert_background_tall_nocolor"
-			"iconColor"		"HudBlack"
+			"iconColor"		"teahudLightBlackTrans"
 			"scaleImage"	"1"
 		}
 		
@@ -224,7 +224,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"icon"			"obj_status_sentrygun_1"
-			"drawcolor"		"WhiteTF"
+			"drawcolor"		"teahudLightWhite"
 			"scaleImage"	"1"
 		}
 		"MoveableSymbolIcon"
@@ -239,7 +239,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/eng_sel_item_movable"
-			"drawcolor"		"WhiteTF"
+			"drawcolor"		"teahudLightWhite"
 			"scaleImage"	"1"
 		}
 

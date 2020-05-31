@@ -64,7 +64,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"AvenirHeavy12"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 	}
 
 	"ItemEffectMeter"
@@ -84,8 +84,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"White"
-		"bgcolor_override"	"TransparentLightBlack"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}
 
 	"ItemEffectMeter2"
@@ -105,7 +105,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"White"
-		"bgcolor_override"	"TransparentLightBlack"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}
 }

@@ -38,7 +38,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"White"
+		"fgcolor"				"teahudLightWhite"
 		"font"					"AvenirHeavy8"
 	}
 
@@ -95,7 +95,6 @@
 			"zpos"			"2"
 			"wide"			"35"
 			"tall"			"20"
-			"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
 			"visible"		"1"
@@ -106,20 +105,17 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"AvenirHeavy24"
-			"fgcolor"		"White"
+			"fgcolor"		"teahudLightWhite"
 		}
 		"NumPipesLabelDropshadow"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelDropshadow"
-			"xpos"			"51"
-			"xpos_minmode"	"43"
+			"xpos"			"52"
 			"ypos"			"19"
-			"ypos_minmode"	"13"
 			"zpos"			"2"
 			"wide"			"35"
 			"tall"			"20"
-			"tall_lodef"	"28"
 			"autoResize"	"1"
 			"pinCorner"		"2"
 			"visible"		"1"
@@ -130,7 +126,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"AvenirHeavy24"
-			"fgcolor"		"TransparentLightBlack"
+			"fgcolor"		"teahudLightBlackTrans"
 		}		
 	}
 	
@@ -180,7 +176,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"	"AvenirHeavy24"
-			"fgcolor"		"White"
+			"fgcolor"		"teahudLightWhite"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -204,7 +200,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"AvenirHeavy24"
-			"fgcolor"		"TransparentLightBlack"
+			"fgcolor"		"teahudLightBlackTrans"
 		}			
 	}				
 }

@@ -88,8 +88,8 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"2"
-		"fgcolor"		"White"
-		"bgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightWhite"
+		"bgcolor"		"teahudLightBlackTrans"
 	}	
 
 	HudBowCharge
@@ -103,8 +103,8 @@
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
-		"fgcolor"		"White"
-		"bgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightWhite"
+		"bgcolor"		"teahudLightBlackTrans"
 	}
 
 	HudFlameRocketCharge
@@ -122,8 +122,8 @@
 		"wide"			"60"
 		"wide_minmode"	"50"
 		"tall"			"8"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
+		"MeterFG"		"teahudLightWhite"
+		"MeterBG"		"teahudGrey"
 	}
 
 	HudBossHealth
@@ -453,13 +453,13 @@
 		
 		"TextFont"		"AvenirBlack8"
 		
-		"TeamBlue"		"HUDBlueTeamSolid"
-		"TeamRed"		"HUDRedTeamSolid"
-		"IconColor"		"White"
-		"LocalPlayerColor"	"Black"
+		"TeamBlue"		"teahudBlueTeam"
+		"TeamRed"		"teahudRedTeam"
+		"IconColor"		"teahudLightWhite"
+		"LocalPlayerColor"	"teahudLightBlack"
 
-		"BaseBackgroundColor"	"46 43 42 200"		
-		"LocalBackgroundColor"	"230 230 230 255"
+		"BaseBackgroundColor"	"teahudLightBlackTrans"		
+		"LocalBackgroundColor"	"teahudLightWhite"
 	}
 
 	HudVehicle

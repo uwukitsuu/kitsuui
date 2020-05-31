@@ -14,7 +14,7 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
-		"HealthDeathWarningColor"	"RedSolid"
+		"HealthDeathWarningColor"	"teahudLowValue"
 	}	
 	"PlayerStatusHealthImage"
 	{
@@ -60,7 +60,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"teahudHealth48"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 	}
 	"PlayerStatusHealthShadow"
 	{
@@ -76,7 +76,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"teahudHealth48"
-		"fgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightBlackTrans"
 	}
 	"Status Anchor"
 	{

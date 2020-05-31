@@ -49,7 +49,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"White"
+		"fgcolor"				"teahudLightWhite"
 		"font"					"AvenirHeavy24"
 	}
 
@@ -92,7 +92,27 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"White"
+		"fgcolor"				"teahudLightWhite"
+		"font"					"teahudAmmo24"
+	}
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCountShadow"
+		"xpos"					"17"
+		"ypos"					"16"
+		"zpos"					"2"
+		"wide"					"40"
+		"tall"					"20"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"north"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"fgcolor"				"teahudLightBlackTrans"
 		"font"					"teahudAmmo24"
 	}
 }

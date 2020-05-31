@@ -55,19 +55,10 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"WaitingForPlayersLabel"
 		"xpos"			"16"
-		"xpos_hidef"	"0"
-		"xpos_lodef"	"0"
 		"ypos"			"34"
-		"ypos_minmode"	"24"
-		"ypos_hidef"	"41"
-		"ypos_lodef"	"41"
 		"zpos"			"5"
 		"wide"			"78"
-		"wide_hidef"	"300"
-		"wide_lodef"	"300"
 		"tall"			"19"
-		"tall_hidef"	"19"
-		"tall_lodef"	"22"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_WaitingForPlayers"
@@ -82,9 +73,9 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"21"
-			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
+			"fgcolor"				"teahudLightWhite"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -135,6 +126,7 @@
 			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
+			"fgcolor"				"teahudLightWhite"
 		}
 	}			
 	"OvertimeBG"
@@ -188,6 +180,7 @@
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
+			"fgcolor"				"teahudLightWhite"
 		}
 	}			
 	"SuddenDeathBG"
@@ -247,6 +240,7 @@
 			"ypos"					"15"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
+			"fgcolor"				"teahudLightWhite"
 		}
 	}	
 	"SetupBG"
@@ -307,6 +301,7 @@
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
+			"fgcolor"				"teahudLightWhite"
 		}
 	}	
 	"ServerTimeLimitLabelBG"

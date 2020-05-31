@@ -69,7 +69,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"teahudHealth16"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 	}
 	"PlayerStatusHealthShadow"
 	{
@@ -85,7 +85,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"teahudHealth16"
-		"fgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightBlackTrans"
 	}
 	"PlayerStatusBG"
 	{
@@ -96,7 +96,7 @@
 		"zpos"			"0"
 		"wide"			"32"
 		"tall"			"15"
-		"fillcolor"		"TransparentLightBlack"
+		"fillcolor"		"teahudLightBlackTrans"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

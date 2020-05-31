@@ -52,6 +52,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
+		"fgcolor"				"teahudLightWhite"
 		"font"					"AvenirHeavy8"
 	}
 
@@ -73,7 +74,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}					
 }

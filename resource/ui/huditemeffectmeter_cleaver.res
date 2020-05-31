@@ -52,6 +52,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"AvenirHeavy8"
+		"fgcolor"				"teahudLightWhite"
 	}
 
 	"ItemEffectMeter"
@@ -71,7 +72,7 @@
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}					
 }

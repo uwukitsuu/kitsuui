@@ -76,7 +76,7 @@
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 
 		if_readymode
 		{
@@ -102,7 +102,7 @@
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
-		"fgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightBlackTrans"
 		"proportionaltoparent"	"1"
 
 	
@@ -299,8 +299,8 @@
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"15"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"0 255 0 255"
-			"NegativeColor"			"255 0 0 255"
+			"PositiveColor"			"teahudHighValue"
+			"NegativeColor"			"teahudLowValue"
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"AvenirBlack12"
 		}
@@ -310,7 +310,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"AvenirBlack12"
-			"fgcolor"		"White"
+			"fgcolor"		"teahudLightWhite"
 			"xpos"			"23"
 			"ypos"			"11"
 			"zpos"			"3"
@@ -329,7 +329,7 @@
 				"wide"			"30"
 				"tall"			"15"
 				"font"			"AvenirBlack12"
-				"bgcolor_override"	"TransparentLightBlack"
+				"bgcolor_override"	"teahudLightBlackTrans"
 			}
 		}	
 	}
@@ -366,17 +366,17 @@
 			"tall"			"50"
 			"zpos"			"1"
 
-			"color_portrait_bg_red"	"119 62 61 255"
-			"color_portrait_bg_blue" "62 81 101 255"
-			"color_portrait_bg_red_dead"	"79 54 52 255"
-			"color_portrait_bg_blue_dead"	"44 49 51 255"
-			"color_bar_health_high"	"84 191 58 255"
-			"color_bar_health_med"	"191 183 58 255"
-			"percentage_health_med"	"0.6"
-			"color_bar_health_low"	"191 58 58 255"
-			"percentage_health_low"	"0.3"
-			"color_portrait_blend_dead_red"	"255 255 255 255"
-			"color_portrait_blend_dead_blue" "255 255 255 255"
+			"color_portrait_bg_red"	"teahudRedTeam"
+			"color_portrait_bg_blue" "teahudBlueTeam"
+			"color_portrait_bg_red_dead"	"teahudRedTeamDark"
+			"color_portrait_bg_blue_dead"	"teahudBlueTeamDark"
+			"color_bar_health_high"	"teahudLightWhite"
+			"color_bar_health_med"	"teahudDamage"
+			"percentage_health_med"	"0.66"
+			"color_bar_health_low"	"teahudLowValue"
+			"percentage_health_low"	"0.33"
+			"color_portrait_blend_dead_red"		"255 255 255 255"
+			"color_portrait_blend_dead_blue" 	"255 255 255 255"
 			
 			"playername"
 			{
@@ -438,7 +438,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "80 80 80 255"
+				"bgcolor_override"	   "teahudGrey"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -458,8 +458,8 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "0 0 0 0"
-				"fgcolor_override"	   "255 255 255 160"
+				"bgcolor_override"	   "teahudLightWhite"
+				"fgcolor_override"	   "teahudHighValue"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
@@ -688,7 +688,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"117 107 94 255"
+			"bgcolor_override"	"teahudBlueTeam"
 		}
 		"BluePlayerList"
 		{
@@ -826,7 +826,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"117 107 94 255"
+			"bgcolor_override"	"teahudRedTeamLight"
 		}
 		"RedPlayerList"
 		{

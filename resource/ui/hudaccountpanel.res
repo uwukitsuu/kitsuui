@@ -43,7 +43,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"White"
+		"iconColor"		"teahudLightWhite"
 	}
 	
 	"AccountValue"
@@ -65,6 +65,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"AvenirHeavy16"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 	}
 }

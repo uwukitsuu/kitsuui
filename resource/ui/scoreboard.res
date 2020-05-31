@@ -35,8 +35,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"HUDBlueTeam"
-		"bgcolor_override"	"HUDBlueTeam"
+		"fgcolor_override"	"teahudBlueTeamTrans"
+		"bgcolor_override"	"teahudBlueTeamTrans"
 		
 		if_mvm
 		{
@@ -101,8 +101,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"HUDRedTeam"
-		"bgcolor_override"	"HUDRedTeam"
+		"fgcolor_override"	"teahudRedTeamTrans"
+		"bgcolor_override"	"teahudRedTeamTrans"
 		
 
 		if_mvm
@@ -183,14 +183,14 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamLabel"
-		"font"			"ScoreboardTeamNameNew"
+		"font"			"AvenirBlack48"
 		"labelText"		"%blueteamname%"
 		"textAlignment"		"west"
 		"xpos"			"80"
-		"ypos"			"21"
+		"ypos"			"-15"
 		"zpos"			"20"
 		"wide"			"160"
-		"tall"			"23"
+		"tall"			"80"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -206,7 +206,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScore"
 		"font"			"AvenirBlack48"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"teahudLightWhite"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"175"
@@ -229,7 +229,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScoreDropshadow"
 		"font"			"AvenirBlack48"
-		"fgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightBlackTrans"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"176"
@@ -272,14 +272,14 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamLabel"
-		"font"			"ScoreboardTeamNameNew"
+		"font"			"AvenirBlack48"
 		"labelText"		"%redteamname%"
 		"textAlignment"		"east"
 		"xpos"			"401"
-		"ypos"			"21"
+		"ypos"			"-15"
 		"zpos"			"20"
 		"wide"			"160"
-		"tall"			"23"
+		"tall"			"80"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -295,7 +295,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScore"
 		"font"			"AvenirBlack48"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"teahudLightWhite"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"			"368"
@@ -318,7 +318,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScoreDropshadow"
 		"font"			"AvenirBlack48"
-		"fgcolor"		"TransparentLightBlack"
+		"fgcolor"		"teahudLightBlackTrans"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"			"369"
@@ -413,7 +413,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"TransparentLightBlack"
+		"bgcolor_override"	"teahudLightBlackTrans"
 
 		if_mvm
 		{
@@ -436,7 +436,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"teahudLightWhite"
 		
 		if_mvm
 		{
@@ -459,7 +459,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 		"centerwrap"	"1"
 		
 		if_mvm
@@ -505,8 +505,8 @@
 		"autoresize"	"3"
 		"linespacing"	"18"
 		"linegap"		"5"
-		"fgcolor"		"blue"
-		//"show_columns"	"1"
+		"fgcolor_override"		"teahudBlueTeamLight"
+		"show_columns"	"0"
 		
 		if_mvm
 		{
@@ -529,8 +529,8 @@
 		"autoresize"	"3"
 		"linespacing"	"18"
 		"linegap"		"5"
-		"fgcolor"		"red"
-		//"show_columns"	"1"
+		"fgcolor_override"		"teahudRedTeamLight"
+		"show_columns"	"0"
 
  		if_mvm
  		{
@@ -610,7 +610,7 @@
 		"xpos"			"4"
 		"ypos"			"372"
 		"zpos"			"-2"
-		"wide"			"200"
+		"wide"			"215"
 		"tall"			"72"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -822,7 +822,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"teahudLightWhite"
 		
 		if_mvm
 		{
@@ -834,18 +834,18 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabelNew"
-		"font"			"ScoreboardVerySmall"
+		"font"			"AvenirHeavy8"
 		"labelText"		"%server%"
 		"textAlignment"		"east"
-		"xpos"			"315"
-		"ypos"			"375"
+		"xpos"			"-50"
+		"ypos"			"295"
 		"zpos"			"3"
 		"wide"			"265"
-		"tall"			"12"
+		"tall"			"145"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		if_mvm
 		{
@@ -856,19 +856,19 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"AvenirHeavy12"
+		"font"			"AvenirHeavy8"
 		"labelText"		"%mapname%"
-		"textAlignment"	"east"
- 		"xpos"			"80"
-		"ypos"			"45"
+		"textAlignment"	"center"
+ 		"xpos"			"280"
+		"ypos"			"40"
 		"zpos"			"3"
-		"wide"			"265"
+		"wide"			"80"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 
 		if_mvm
 		{
@@ -1183,7 +1183,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"teahudLightWhite"
 		}
 		"Assists"
 		{
@@ -1199,16 +1199,16 @@
 			"font"			"AvenirBlack48"
 			"labelText"		"%kills%:%deaths%"
 			"textAlignment"	"west"
-			"xpos"			"35"
+			"xpos"			"15"
 			"ypos"			"0"
 			"zpos"			"3"
-			"wide"			"80"
+			"wide"			"150"
 			"tall"			"50"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"teahudLightWhite"
 		}		
 		"Kills"
 		{
@@ -1244,13 +1244,13 @@
 			"xpos"			"155"
 			"ypos"			"15"
 			"zpos"			"3"
-			"wide"			"35"
+			"wide"			"50"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"teahudLightWhite"
 		}		
 		"Healing"
 		{
@@ -1286,13 +1286,13 @@
 			"xpos"			"155"
 			"ypos"			"0"
 			"zpos"			"3"
-			"wide"			"35"
+			"wide"			"50"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"teahudLightWhite"
 		}
 		"Damage"
 		{

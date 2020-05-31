@@ -36,7 +36,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"teahudAmmo48"
-		"fgcolor"		"White"
+		"fgcolor"		"teahudLightWhite"
 	}
 	"ChargeLabelShadow"
 	{
@@ -57,7 +57,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"teahudAmmo48"
-		"fgcolor_override"		"TransparentLightBlack"
+		"fgcolor_override"		"teahudLightBlackTrans"
 	}
 
 	"IndividualChargesLabel"
@@ -79,7 +79,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"teahudAmmo48"
-		"fgcolor_override"	"White"
+		"fgcolor_override"	"teahudLightWhite"
 	}
 	"ChargeMeter"
 	{	
@@ -98,8 +98,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}		
 
 	"ChargeMeter1"
@@ -119,8 +119,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}
 
 	"ChargeMeter2"
@@ -140,8 +140,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}
 
 	"ChargeMeter3"
@@ -161,8 +161,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}
 
 	"ChargeMeter4"
@@ -182,8 +182,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"TransparentLightBlack"
-		"fgcolor_override" 		"White"
+		"bgcolor_override"		"teahudLightBlackTrans"
+		"fgcolor_override" 		"teahudLightWhite"
 	}
 	
 	"HealthClusterIcon"

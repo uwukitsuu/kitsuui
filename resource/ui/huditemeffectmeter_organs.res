@@ -50,7 +50,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"White"
+		"fgcolor"				"teahudLightWhite"
 		"font"					"AvenirHeavy8"
 	}
 
@@ -94,7 +94,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"White"
+		"fgcolor"				"teahudLightWhite"
 		"font"					"AvenirHeavy24"
 	}
 }

@@ -1521,11 +1521,11 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"EventPromo"
 		"xpos"			"c-290"
-		"ypos"			"160"
+		"ypos"			"9999"
 		"zpos"			"-50"
 		"wide"			"270"
 		"tall"			"96"
-		"visible"		"1"
+		"visible"		"0"
 
 		"Background"
 		{

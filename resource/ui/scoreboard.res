@@ -563,11 +563,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"ScoreboardVerySmall"
+		"font"			"AvenirHeavy8"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
-		"xpos"			"115"
-		"ypos"			"357"
+		"xpos"			"0"
+		"ypos"			"345"
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"
@@ -575,6 +575,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"fgcolor"		"teahudLightWhite"
 		
 		if_mvm
 		{
@@ -630,13 +631,12 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ClassImage"
 		"xpos"			"22"
-		"xpos_lodef"	"12"
-		"ypos"			"350"
+		"ypos"			"9999"
 		"zpos"			"3"
 		"wide"			"92"
 		"tall"			"92"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
 		
@@ -816,7 +816,7 @@
 		"xpos"			"15"
 		"ypos"			"365"
 		"zpos"			"3"
-		"wide"			"300"
+		"wide"			"200"
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"

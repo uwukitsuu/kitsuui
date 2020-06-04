@@ -295,6 +295,7 @@
 		if_match
 		{
 			"xpos"					"cs-0.5"
+			"xpos_minmode"			"9999"
 			"wide"					"130"
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"15"
@@ -518,7 +519,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"AvenirBlack8"
+				"font"			"AvenirBlack4"
 				"xpos"			"cs-0.5"
 				"ypos"			"5"
 				"zpos"			"7"
@@ -575,7 +576,7 @@
 				"wide"			"f0"
 				"tall"			"24"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"image"			"../HUD/comp_player_status"	
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	

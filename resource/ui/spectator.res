@@ -131,23 +131,6 @@
 		"textAlignment_lodef"		"north-west"
 		"font"			"AvenirHeavy8"
 	}
-	"TipLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"TipLabel"
-		"xpos"			"15"
-		"ypos"			"9999"
-		"wide"			"145"
-		"tall"			"64"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"labelText"		"%tip%"
-		"textAlignment"		"center"	
-		"font"			"SpectatorKeyHints"
-		"wrap"			"1"
-	}
 	"itempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -214,5 +197,5 @@
 		"pinCorner"		"0"
 		"visible"		"0
 		"enabled"		"0"
-	}		
+	}
 }

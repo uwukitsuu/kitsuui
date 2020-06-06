@@ -74,9 +74,6 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"textAlignment_minmode"		"west"
-		"use_proportional_insets_minmode"	"1"
-		"textinsetx_minmode"				"5"
 		"font"			"AvenirHeavy12"
 	}
 	"BuyBackLabel"

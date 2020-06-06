@@ -958,11 +958,11 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"CountdownBG"
-		"xpos"			"230"
-		"ypos"			"9999"
+		"xpos"			"9999"
+		"ypos"			"9"
 		"zpos"			"1"
-		"wide"			"40"
-		"tall"			"40"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -993,27 +993,28 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"HudFontGiant"
+		"font"			"AvenirBlack24"
 		"xpos"			"230"
-		"ypos"			"9999"
+		"ypos"			"0"
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"5"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
 		"proportionaltoparent"	"1"
+		"fgcolor"		"teahudLightWhite"
 
 		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
-			"fgcolor"		"TanLight"
-			"font"			"HudFontGiant"
+			"fgcolor"		"teahudLightWhite"
+			"font"			"AvenirBlack24"
 		}
 
 		if_readymode
@@ -1027,9 +1028,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"HudFontGiant"
+		"font"			"AvenirBlack24"
 		"xpos"			"231"
-		"ypos"			"9999"
+		"ypos"			"0"
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"4"
@@ -1040,14 +1041,14 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"Black"
+		"fgcolor"		"teahudLightBlackTrans"
 		"proportionaltoparent"	"1"
 
 		if_competitive
 		{
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.08"
-			"font"			"HudFontGiant"
+			"font"			"AvenirBlack24"
 		}
 
 		if_readymode

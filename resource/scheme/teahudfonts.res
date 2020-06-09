@@ -13,12 +13,12 @@ Scheme
 			}
 		}
 		//Spectator/TargetID Health Font
-		"teahudHealth16"
+		"teahudHealth15"
 		{
 			"1"
 			{
 				"name"		"BlackNumbers"
-				"tall"		"16"
+				"tall"		"15"
 				"antialias"	"1"
 			}
 		}

@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth16"
+		"font"			"teahudHealth15"
 		"fgcolor"		"teahudLightWhite"
 	}
 	"PlayerStatusHealthShadow"
@@ -84,7 +84,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth16"
+		"font"			"teahudHealth15"
 		"fgcolor"		"teahudLightBlackTrans"
 	}
 	"PlayerStatusBG"

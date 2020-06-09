@@ -104,7 +104,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"AvenirHeavy24"
+			"font"			"AvenirBlack24"
 			"fgcolor"		"teahudLightWhite"
 		}
 		"NumPipesLabelDropshadow"
@@ -125,7 +125,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"AvenirHeavy24"
+			"font"			"AvenirBlack24"
 			"fgcolor"		"teahudLightBlackTrans"
 		}		
 	}

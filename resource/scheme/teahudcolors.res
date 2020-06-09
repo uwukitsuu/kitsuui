@@ -4,12 +4,13 @@ Scheme
 	Colors
 	{
 		//Overheal and reserve ammo
-		"teahudHighValue"	"3 252 211 255"
+		//old value: 3 252 211
+		"teahudHighValue"	"3 244 252 255"
 		//Low health and low ammo
 		"teahudLowValue"	"235 85 52 255"
 		
 		//Damage numbers
-		"teahudHealing"		"3 252 211 255"
+		"teahudHealing"		"3 244 252 255"
 		"teahudDamage"		"255 213 28 255"
 		"teahudMedicDrop"	"255 18 109 255"
 		

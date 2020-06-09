@@ -6,7 +6,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"-20"	
-		"ypos"			"c200"	
+		"ypos"			"c195"	
+		"ypos_minmode"	"9999"
 		"wide"			"200"
 		"tall"			"50"
 	}
@@ -35,8 +36,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"0"
-		"ypos"					"9999"
+		"xpos"					"-15"
+		"ypos"					"32"
 		"zpos"					"2"
 		"wide"					"100"
 		"tall"					"15"
@@ -45,12 +46,13 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#TF_Killstreak"
+		"labelText"				"KS:"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"teahudLightWhite"
-		"font"					"AvenirHeavy24"
+		"font"					"AvenirHeavy8"
+		"fillcolor"				"teahudLightBlackTrans"
 	}
 
 	"ItemEffectMeter"

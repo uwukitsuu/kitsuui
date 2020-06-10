@@ -3,7 +3,7 @@ Scheme
 	Fonts
 	{
 		//Main Health font
-		"teahudHealth48"
+		"kitsuuiHealth48"
 		{
 			"1"
 			{
@@ -13,7 +13,7 @@ Scheme
 			}
 		}
 		//Spectator/TargetID Health Font
-		"teahudHealth15"
+		"kitsuuiHealth15"
 		{
 			"1"
 			{
@@ -24,7 +24,7 @@ Scheme
 		}
 		
 		//Main Ammo and ubercharge Font
-		"teahudAmmo48"
+		"kitsuuiAmmo48"
 		{
 			"1"
 			{
@@ -34,7 +34,7 @@ Scheme
 			}
 		}
 		//Reserve Ammo and Killstreak Font
-		"teahudAmmo24"
+		"kitsuuiAmmo24"
 		{
 			"1"
 			{
@@ -45,7 +45,7 @@ Scheme
 		}
 		
 		//Damage Number font
-		"teahudDamageNum"
+		"kitsuuiDamageNum"
 		{
 			"1"
 			{
@@ -56,7 +56,7 @@ Scheme
 			}
 		}
 		//Critical Damage Number font
-		"teahudBigDamageNum"
+		"kitsuuiBigDamageNum"
 		{
 			"1"
 			{
@@ -67,7 +67,7 @@ Scheme
 			}
 		}
 		//Don't even know what this is for
-		"teahudRespawnMatchNum"
+		"kitsuuiRespawnMatchNum"
 		{
 			"1"
 			{
@@ -191,4 +191,31 @@ Scheme
 			}
 		}
 	}
-}
+	CustomFontFiles
+	{
+		"8"
+		{
+			"font" "resource/fonts/BlackNumbers.ttf"
+			"name" "BlackNumbers"
+		}
+		"10"
+		{
+			"font" "resource/fonts/AvenirLTStd-Black.otf"
+			"name" "AvenirLTStd-Black"
+		}
+		"11"
+		{
+			"font" "resource/fonts/AvenirLTStd-Medium.otf"
+			"name" "AvenirLTStd-Medium"
+		}
+		"12"
+		{
+			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
+			"name" "AvenirLTStd-Heavy"
+		}
+		"13"
+		{
+			"font" "resource/fonts/AvenirLTStd-Book.otf"
+			"name" "AvenirLTStd-Book"
+		}
+	}

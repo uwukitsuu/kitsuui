@@ -50,9 +50,9 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightWhite"
+		"fgcolor"				"kitsuuiLightWhite"
 		"font"					"AvenirHeavy8"
-		"fillcolor"				"teahudLightBlackTrans"
+		"fillcolor"				"kitsuuiLightBlackTrans"
 	}
 
 	"ItemEffectMeter"
@@ -94,8 +94,8 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightWhite"
-		"font"					"teahudAmmo24"
+		"fgcolor"				"kitsuuiLightWhite"
+		"font"					"kitsuuiAmmo24"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -114,7 +114,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightBlackTrans"
-		"font"					"teahudAmmo24"
+		"fgcolor"				"kitsuuiLightBlackTrans"
+		"font"					"kitsuuiAmmo24"
 	}
 }

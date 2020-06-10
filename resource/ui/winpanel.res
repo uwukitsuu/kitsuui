@@ -56,7 +56,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 		}							
 		"BlueTeamScore"
 		{
@@ -74,14 +74,14 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 		}
 		"BlueTeamScoreDropshadow"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScoreDropshadow"
 			"font"			"AvenirBlack48"
-			"fgcolor"		"teahudLightBlackTrans"
+			"fgcolor"		"kitsuuiLightBlackTrans"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"			"81"
@@ -138,7 +138,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 		}							
 		"RedTeamScore"
 		{
@@ -156,14 +156,14 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 		}
 		"RedTeamScoreDropshadow"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScoreDropshadow"
 			"font"			"AvenirBlack48"
-			"fgcolor"		"teahudLightBlackTrans"
+			"fgcolor"		"kitsuuiLightBlackTrans"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"203"

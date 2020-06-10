@@ -22,8 +22,8 @@
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
-		"PositiveColor"			"teahudHighValue"
-		"NegativeColor"			"teahudLowValue"
+		"PositiveColor"			"kitsuuiHighValue"
+		"NegativeColor"			"kitsuuiLowValue"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"AvenirBlack12"
 
@@ -35,8 +35,8 @@
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"teahudHighValue"
-			"NegativeColor"			"teahudLowValue"
+			"PositiveColor"			"kitsuuiHighValue"
+			"NegativeColor"			"kitsuuiLowValue"
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"AvenirBlack12"
 		}
@@ -64,8 +64,8 @@
 				"tall"			"15"
 				"wide"			"35"
 				"font"			"AvenirBlack12"
-				"fgcolor_override"	"teahudLightBlack"
-				"bgcolor_override"	"teahudBlueTeamTrans"
+				"fgcolor_override"	"kitsuuiLightBlack"
+				"bgcolor_override"	"kitsuuiBlueTeamTrans"
 			}
 		}	
 	}
@@ -84,8 +84,8 @@
 		"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
-		"PositiveColor"			"teahudHighValue"
-		"NegativeColor"			"teahudLowValue"
+		"PositiveColor"			"kitsuuiHighValue"
+		"NegativeColor"			"kitsuuiLowValue"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"AvenirBlack12"
 
@@ -97,8 +97,8 @@
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"teahudHighValue"
-			"NegativeColor"			"teahudLowValue"
+			"PositiveColor"			"kitsuuiHighValue"
+			"NegativeColor"			"kitsuuiLowValue"
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"AvenirBlack12"
 		}
@@ -127,8 +127,8 @@
 				"wide"			"35"
 				"tall"			"15"
 				"font"			"AvenirBlack12"
-				"fgcolor_override"	"teahudLightBlack"
-				"bgcolor_override"	"teahudRedTeamTrans"
+				"fgcolor_override"	"kitsuuiLightBlack"
+				"bgcolor_override"	"kitsuuiRedTeamTrans"
 			}
 		}	
 	}

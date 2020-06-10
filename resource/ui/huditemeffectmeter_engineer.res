@@ -49,7 +49,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightWhite"
+		"fgcolor"				"kitsuuiLightWhite"
 		"font"					"AvenirHeavy8"
 	}
 
@@ -92,7 +92,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightWhite"
+		"fgcolor"				"kitsuuiLightWhite"
 		"font"					"AvenirBlack24"
 	}
 	"ItemEffectMeterCountShadow"
@@ -112,7 +112,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightBlackTrans"
+		"fgcolor"				"kitsuuiLightBlackTrans"
 		"font"					"AvenirBlack24"
 	}
 }

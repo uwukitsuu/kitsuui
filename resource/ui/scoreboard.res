@@ -35,8 +35,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"teahudBlueTeamTrans"
-		"bgcolor_override"	"teahudBlueTeamTrans"
+		"fgcolor_override"	"kitsuuiBlueTeamTrans"
+		"bgcolor_override"	"kitsuuiBlueTeamTrans"
 		
 		if_mvm
 		{
@@ -101,8 +101,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"teahudRedTeamTrans"
-		"bgcolor_override"	"teahudRedTeamTrans"
+		"fgcolor_override"	"kitsuuiRedTeamTrans"
+		"bgcolor_override"	"kitsuuiRedTeamTrans"
 		
 
 		if_mvm
@@ -206,7 +206,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScore"
 		"font"			"AvenirBlack48"
-		"fgcolor_override"	"teahudLightWhite"
+		"fgcolor_override"	"kitsuuiLightWhite"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"175"
@@ -229,7 +229,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamScoreDropshadow"
 		"font"			"AvenirBlack48"
-		"fgcolor"		"teahudLightBlackTrans"
+		"fgcolor"		"kitsuuiLightBlackTrans"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		"xpos"			"176"
@@ -295,7 +295,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScore"
 		"font"			"AvenirBlack48"
-		"fgcolor_override"	"teahudLightWhite"
+		"fgcolor_override"	"kitsuuiLightWhite"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"			"368"
@@ -318,7 +318,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamScoreDropshadow"
 		"font"			"AvenirBlack48"
-		"fgcolor"		"teahudLightBlackTrans"
+		"fgcolor"		"kitsuuiLightBlackTrans"
 		"labelText"		"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"			"369"
@@ -413,7 +413,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"teahudLightBlackTrans"
+		"bgcolor_override"	"kitsuuiLightBlackTrans"
 
 		if_mvm
 		{
@@ -436,7 +436,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"teahudLightWhite"
+		"fgcolor_override"	"kitsuuiLightWhite"
 		
 		if_mvm
 		{
@@ -459,7 +459,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"teahudLightWhite"
+		"fgcolor"		"kitsuuiLightWhite"
 		"centerwrap"	"1"
 		
 		if_mvm
@@ -505,7 +505,7 @@
 		"autoresize"	"3"
 		"linespacing"	"18"
 		"linegap"		"5"
-		"fgcolor_override"		"teahudBlueTeamLight"
+		"fgcolor_override"		"kitsuuiBlueTeamLight"
 		"show_columns"	"0"
 		
 		if_mvm
@@ -529,7 +529,7 @@
 		"autoresize"	"3"
 		"linespacing"	"18"
 		"linegap"		"5"
-		"fgcolor_override"		"teahudRedTeamLight"
+		"fgcolor_override"		"kitsuuiRedTeamLight"
 		"show_columns"	"0"
 
  		if_mvm
@@ -575,7 +575,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"teahudLightWhite"
+		"fgcolor"		"kitsuuiLightWhite"
 		
 		if_mvm
 		{
@@ -822,7 +822,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor_override"	"teahudLightWhite"
+		"fgcolor_override"	"kitsuuiLightWhite"
 		
 		if_mvm
 		{
@@ -868,7 +868,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"teahudLightWhite"
+		"fgcolor"		"kitsuuiLightWhite"
 
 		if_mvm
 		{
@@ -1183,7 +1183,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"teahudLightWhite"
+			"fgcolor_override"	"kitsuuiLightWhite"
 		}
 		"Assists"
 		{
@@ -1208,7 +1208,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"teahudLightWhite"
+			"fgcolor_override"	"kitsuuiLightWhite"
 		}		
 		"Kills"
 		{
@@ -1250,7 +1250,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"teahudHealing"
+			"fgcolor_override"	"kitsuuiHealing"
 		}		
 		"Healing"
 		{
@@ -1292,7 +1292,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"teahudDamage"
+			"fgcolor_override"	"kitsuuiDamage"
 		}
 		"Damage"
 		{
@@ -1334,7 +1334,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"teahudLightWhite"
+			"fgcolor_override"	"kitsuuiLightWhite"
 		}
 		"Ubers"
 		{

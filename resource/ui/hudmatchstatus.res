@@ -76,7 +76,7 @@
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"teahudLightWhite"
+		"fgcolor"		"kitsuuiLightWhite"
 
 		if_readymode
 		{
@@ -102,7 +102,7 @@
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
-		"fgcolor"		"teahudLightBlackTrans"
+		"fgcolor"		"kitsuuiLightBlackTrans"
 		"proportionaltoparent"	"1"
 
 	
@@ -300,8 +300,8 @@
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"15"
 			"delta_item_end_y"		"50"
-			"PositiveColor"			"teahudHighValue"
-			"NegativeColor"			"teahudLowValue"
+			"PositiveColor"			"kitsuuiHighValue"
+			"NegativeColor"			"kitsuuiLowValue"
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"AvenirBlack12"
 		}
@@ -311,7 +311,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"AvenirBlack12"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 			"xpos"			"23"
 			"ypos"			"11"
 			"zpos"			"3"
@@ -330,7 +330,7 @@
 				"wide"			"30"
 				"tall"			"15"
 				"font"			"AvenirBlack12"
-				"bgcolor_override"	"teahudLightBlackTrans"
+				"bgcolor_override"	"kitsuuiLightBlackTrans"
 			}
 		}	
 	}
@@ -367,17 +367,17 @@
 			"tall"			"50"
 			"zpos"			"1"
 
-			"color_portrait_bg_red"	"teahudRedTeam"
-			"color_portrait_bg_blue" "teahudBlueTeam"
-			"color_portrait_bg_red_dead"	"teahudLightBlack"
-			"color_portrait_bg_blue_dead"	"teahudLightBlack"
-			"color_bar_health_high"	"teahudLightWhite"
-			"color_bar_health_med"	"teahudDamage"
+			"color_portrait_bg_red"	"kitsuuiRedTeam"
+			"color_portrait_bg_blue" "kitsuuiBlueTeam"
+			"color_portrait_bg_red_dead"	"kitsuuiLightBlack"
+			"color_portrait_bg_blue_dead"	"kitsuuiLightBlack"
+			"color_bar_health_high"	"kitsuuiLightWhite"
+			"color_bar_health_med"	"kitsuuiDamage"
 			"percentage_health_med"	"0.66"
-			"color_bar_health_low"	"teahudLowValue"
+			"color_bar_health_low"	"kitsuuiLowValue"
 			"percentage_health_low"	"0.33"
-			"color_portrait_blend_dead_red"		"teahudLightWhiteTrans"
-			"color_portrait_blend_dead_blue" 	"teahudLightWhiteTrans"
+			"color_portrait_blend_dead_red"		"kitsuuiLightWhiteTrans"
+			"color_portrait_blend_dead_blue" 	"kitsuuiLightWhiteTrans"
 			
 			"playername"
 			{
@@ -439,7 +439,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "teahudGrey"
+				"bgcolor_override"	   "kitsuuiGrey"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -459,8 +459,8 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "teahudLightWhite"
-				"fgcolor_override"	   "teahudHighValue"
+				"bgcolor_override"	   "kitsuuiLightWhite"
+				"fgcolor_override"	   "kitsuuiHighValue"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
@@ -530,7 +530,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
-				"fgcolor_override"		"teahudLightWhite"
+				"fgcolor_override"		"kitsuuiLightWhite"
 				"proportionaltoparent"	"1"
 			}
 			"chargeamount"
@@ -595,7 +595,7 @@
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	
 				"image"	"replay\thumbnails\death"
-				"fgcolor_override"	"teahudLightWhite"
+				"fgcolor_override"	"kitsuuiLightWhite"
 			}
 		}
 	}
@@ -691,7 +691,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"teahudBlueTeam"
+			"bgcolor_override"	"kitsuuiBlueTeam"
 		}
 		"BluePlayerList"
 		{
@@ -829,7 +829,7 @@
 			"tall"			"39"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"	"teahudRedTeamLight"
+			"bgcolor_override"	"kitsuuiRedTeamLight"
 		}
 		"RedPlayerList"
 		{

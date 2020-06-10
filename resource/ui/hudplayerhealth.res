@@ -14,7 +14,7 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
-		"HealthDeathWarningColor"	"teahudLowValue"
+		"HealthDeathWarningColor"	"kitsuuiLowValue"
 	}	
 	"PlayerStatusHealthImage"
 	{
@@ -59,8 +59,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth48"
-		"fgcolor"		"teahudLightWhite"
+		"font"			"kitsuuiHealth48"
+		"fgcolor"		"kitsuuiLightWhite"
 	}
 	"PlayerStatusHealthShadow"
 	{
@@ -75,8 +75,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth48"
-		"fgcolor"		"teahudLightBlackTrans"
+		"font"			"kitsuuiHealth48"
+		"fgcolor"		"kitsuuiLightBlackTrans"
 	}
 	"Status Anchor"
 	{

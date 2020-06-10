@@ -5,8 +5,8 @@
 		"delta_item_x"			"40"
 		"delta_item_start_y"	"135"
 		"delta_item_end_y"		"160"
-		"PositiveColor"			"teahudHealing"
-		"NegativeColor"			"teahudDamage"
+		"PositiveColor"			"kitsuuiHealing"
+		"NegativeColor"			"kitsuuiDamage"
 		"delta_lifetime"		"1"
 		"delta_item_font"		"AvenirHeavy16"
 	}
@@ -43,7 +43,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"teahudLightWhite"
+		"iconColor"		"kitsuuiLightWhite"
 	}
 	
 	"AccountValue"
@@ -65,6 +65,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"AvenirHeavy16"
-		"fgcolor"		"teahudLightWhite"
+		"fgcolor"		"kitsuuiLightWhite"
 	}
 }

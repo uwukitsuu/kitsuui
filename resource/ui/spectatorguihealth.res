@@ -68,8 +68,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth15"
-		"fgcolor"		"teahudLightWhite"
+		"font"			"kitsuuiHealth15"
+		"fgcolor"		"kitsuuiLightWhite"
 	}
 	"PlayerStatusHealthShadow"
 	{
@@ -84,8 +84,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"teahudHealth15"
-		"fgcolor"		"teahudLightBlackTrans"
+		"font"			"kitsuuiHealth15"
+		"fgcolor"		"kitsuuiLightBlackTrans"
 	}
 	"PlayerStatusBG"
 	{
@@ -96,7 +96,7 @@
 		"zpos"			"0"
 		"wide"			"32"
 		"tall"			"15"
-		"fillcolor"		"teahudLightBlackTrans"
+		"fillcolor"		"kitsuuiLightBlackTrans"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

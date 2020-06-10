@@ -75,7 +75,7 @@
 			"ypos"					"21"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
-			"fgcolor"				"teahudLightWhite"
+			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -126,7 +126,7 @@
 			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
-			"fgcolor"				"teahudLightWhite"
+			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}			
 	"OvertimeBG"
@@ -180,7 +180,7 @@
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
-			"fgcolor"				"teahudLightWhite"
+			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}			
 	"SuddenDeathBG"
@@ -240,7 +240,7 @@
 			"ypos"					"15"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
-			"fgcolor"				"teahudLightWhite"
+			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}	
 	"SetupBG"
@@ -301,7 +301,7 @@
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
-			"fgcolor"				"teahudLightWhite"
+			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}	
 	"ServerTimeLimitLabelBG"

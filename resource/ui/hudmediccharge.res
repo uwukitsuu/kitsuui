@@ -35,8 +35,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"teahudAmmo48"
-		"fgcolor"		"teahudLightWhite"
+		"font"			"kitsuuiAmmo48"
+		"fgcolor"		"kitsuuiLightWhite"
 	}
 	"ChargeLabelShadow"
 	{
@@ -56,8 +56,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"teahudAmmo48"
-		"fgcolor_override"		"teahudLightBlackTrans"
+		"font"			"kitsuuiAmmo48"
+		"fgcolor_override"		"kitsuuiLightBlackTrans"
 	}
 
 	"IndividualChargesLabel"
@@ -78,8 +78,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"teahudAmmo48"
-		"fgcolor_override"	"teahudLightWhite"
+		"font"			"kitsuuiAmmo48"
+		"fgcolor_override"	"kitsuuiLightWhite"
 	}
 	"ChargeMeter"
 	{	
@@ -98,8 +98,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"teahudLightBlackTrans"
-		"fgcolor_override" 		"teahudLightWhite"
+		"bgcolor_override"		"kitsuuiLightBlackTrans"
+		"fgcolor_override" 		"kitsuuiLightWhite"
 	}		
 
 	"ChargeMeter1"
@@ -119,8 +119,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"teahudLightBlackTrans"
-		"fgcolor_override" 		"teahudLightWhite"
+		"bgcolor_override"		"kitsuuiLightBlackTrans"
+		"fgcolor_override" 		"kitsuuiLightWhite"
 	}
 
 	"ChargeMeter2"
@@ -140,8 +140,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"teahudLightBlackTrans"
-		"fgcolor_override" 		"teahudLightWhite"
+		"bgcolor_override"		"kitsuuiLightBlackTrans"
+		"fgcolor_override" 		"kitsuuiLightWhite"
 	}
 
 	"ChargeMeter3"
@@ -161,8 +161,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"teahudLightBlackTrans"
-		"fgcolor_override" 		"teahudLightWhite"
+		"bgcolor_override"		"kitsuuiLightBlackTrans"
+		"fgcolor_override" 		"kitsuuiLightWhite"
 	}
 
 	"ChargeMeter4"
@@ -182,8 +182,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"		"teahudLightBlackTrans"
-		"fgcolor_override" 		"teahudLightWhite"
+		"bgcolor_override"		"kitsuuiLightBlackTrans"
+		"fgcolor_override" 		"kitsuuiLightWhite"
 	}
 	
 	"HealthClusterIcon"

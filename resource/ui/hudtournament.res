@@ -1007,13 +1007,13 @@
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"teahudLightWhite"
+		"fgcolor"		"kitsuuiLightWhite"
 
 		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 			"font"			"AvenirBlack24"
 		}
 
@@ -1041,7 +1041,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"teahudLightBlackTrans"
+		"fgcolor"		"kitsuuiLightBlackTrans"
 		"proportionaltoparent"	"1"
 
 		if_competitive

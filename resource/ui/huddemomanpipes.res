@@ -38,7 +38,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"teahudLightWhite"
+		"fgcolor"				"kitsuuiLightWhite"
 		"font"					"AvenirHeavy8"
 	}
 
@@ -105,7 +105,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"AvenirBlack24"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -126,7 +126,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"AvenirBlack24"
-			"fgcolor"		"teahudLightBlackTrans"
+			"fgcolor"		"kitsuuiLightBlackTrans"
 		}		
 	}
 	
@@ -176,7 +176,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"	"AvenirHeavy24"
-			"fgcolor"		"teahudLightWhite"
+			"fgcolor"		"kitsuuiLightWhite"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -200,7 +200,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"AvenirHeavy24"
-			"fgcolor"		"teahudLightBlackTrans"
+			"fgcolor"		"kitsuuiLightBlackTrans"
 		}			
 	}				
 }

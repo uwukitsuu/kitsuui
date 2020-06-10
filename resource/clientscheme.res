@@ -1,5 +1,5 @@
-#base "scheme/teahudcolors.res"
-#base "scheme/teahudfonts.res"
+#base "scheme/kitsuuicolors.res"
+#base "scheme/kitsuuifonts.res"
 
 //
 // TRACKER SCHEME RESOURCE FILE
@@ -334,7 +334,7 @@ Scheme
 		
 		"BuildingHealthBar.BgColor"		"TransparentBlack"
 		"BuildingHealthBar.Health"		"White"
-		"BuildingHealthBar.LowHealth"	"teahudDyingHealth"
+		"BuildingHealthBar.LowHealth"	"kitsuuiDyingHealth"
 
 		PropertySheet.TextColor			"Orange"
 		PropertySheet.SelectedTextColor	"Orange"
@@ -5792,36 +5792,6 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
-		}
-		"8"
-		{
-			"font" "resource/fonts/BlackNumbers.ttf"
-			"name" "BlackNumbers"
-		}
-		"9"
-		{
-			"font" "resource/fonts/KimberleyBl-Regular.ttf"
-			"name" "Kimberley"
-		}
-		"10"
-		{
-			"font" "resource/fonts/AvenirLTStd-Black.otf"
-			"name" "AvenirLTStd-Black"
-		}
-		"11"
-		{
-			"font" "resource/fonts/AvenirLTStd-Medium.otf"
-			"name" "AvenirLTStd-Medium"
-		}
-		"12"
-		{
-			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
-			"name" "AvenirLTStd-Heavy"
-		}
-		"13"
-		{
-			"font" "resource/fonts/AvenirLTStd-Book.otf"
-			"name" "AvenirLTStd-Book"
 		}
 	}
 }

@@ -224,8 +224,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	
-		"ypos"		"r70"	
+		"xpos"		"10"	//245
+		"ypos"		"r70"	//r150
 		"ypos_minmode"		"9999"
 		"wide"		"500"
 		"tall"		"200"
@@ -249,7 +249,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-106"
-		"ypos"		"280"
+		"ypos"		"335"
 		"wide"	 	"252"
 		"tall"	 	"35"
 	}
@@ -816,9 +816,9 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-150"
-		"ypos"					"215"
-		"wide"					"300"
-		"tall"					"300"
+		"ypos"					"50"
+		"wide"					"450"
+		"tall"					"450"
 		"zpos"					"4"
 		"proportionaltoparent"	"1"
 	}
@@ -866,7 +866,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"50"
 		"wide"					"f0"
 		"tall"					"480"
 	}
@@ -877,7 +877,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"200"
-		"ypos"					"200"
+		"ypos"					"450"
 		"wide"					"100"
 		"tall"					"50"
 	}

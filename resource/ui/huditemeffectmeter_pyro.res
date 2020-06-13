@@ -9,6 +9,7 @@
 		"enabled"		"1"
 		"xpos"			"c35"	
 		"ypos"			"c85"	
+		"ypos_minmode"	"9999"
 		"wide"			"100"
 		"tall"			"50"
 	}

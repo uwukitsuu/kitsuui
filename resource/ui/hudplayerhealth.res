@@ -82,8 +82,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"StatusAnchor"
-		"xpos"			"5"
-		"ypos"			"0"
+		"xpos"			"10"
+		"ypos"			"20"
 		"wide"			"80"
 		"tall"			"50"
 	}

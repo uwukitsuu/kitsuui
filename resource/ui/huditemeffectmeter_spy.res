@@ -6,7 +6,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c120"	
-		"ypos"			"c100"	
+		"ypos"			"c100"
+		"ypos_minmode"	"9999"		
 		"wide"			"100"
 		"tall"			"50"
 	}

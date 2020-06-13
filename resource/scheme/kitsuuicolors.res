@@ -4,11 +4,11 @@ Scheme
 	{
 		//General values
 		"kitsuuiHighValue"	"56 245 110 255"
-		"kitsuuiLowValue"	"245 117 66 255"
+		"kitsuuiLowValue"	"245 110 56 255"
 		
 		//Damage numbers
 		"kitsuuiHealing"	"56 245 110 255"
-		"kitsuuiDamage"		"245 225 76 255"
+		"kitsuuiDamage"		"247 198 52 255"
 		"kitsuuiMedicDrop"	"255 18 109 255"
 		
 		"kitsuuiRedTeam"	"245 87 87 255"

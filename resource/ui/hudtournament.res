@@ -1046,8 +1046,8 @@
 
 		if_competitive
 		{
-			"xpos"			"cs-0.48"
-			"ypos"			"cs-0.08"
+			"xpos"			"cs-2.5"
+			"ypos"			"cs-1.1"
 			"font"			"AvenirBlack24"
 		}
 

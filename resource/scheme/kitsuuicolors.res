@@ -14,8 +14,8 @@ Scheme
 		"kitsuuiRedTeam"	"245 87 87 255"
 		"kitsuuiBlueTeam"	"105 215 245 255"
 		
-		"kitsuuiRedTeamTrans" "245 96 66 180"
-		"kitsuuiBlueTeamTrans" "66 182 245 180"
+		"kitsuuiRedTeamTrans" "245 87 87 180"
+		"kitsuuiBlueTeamTrans" "105 215 245 180"
 		
 		"kitsuuiRedTeamLight" "250 115 87 255"
 		"kitsuuiBlueTeamLight" "69 201 266 255"

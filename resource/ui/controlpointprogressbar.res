@@ -5,7 +5,8 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"	"ControlPointProgressBar"
 		"xpos"		"0"
-		"ypos"		"9999"
+		"xpos_minmode"	"9999"
+		"ypos"		"0"
 		"zpos"		"20"
 		"wide"		"65"
 		"tall"		"42"
@@ -17,7 +18,7 @@
 	{
 		"ControlName"	"CircularProgressBar"
 		"fieldName"	"ProgressBar"
-		"xpos"		"18"
+		"xpos"		"9999"
 		"ypos"		"3"
 		"zpos"		"23"
 		"wide"		"29"
@@ -34,7 +35,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"	"Teardrop"
-		"xpos"		"16"
+		"xpos"		"9999"
 		"ypos"		"0"
 		"zpos"		"21"
 		"wide"		"35"
@@ -50,7 +51,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"	"TeardropSide"
-		"xpos"		"15"
+		"xpos"		"9999"
 		"ypos"		"0"
 		"zpos"		"21"
 		"wide"		"35"

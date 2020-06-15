@@ -1011,8 +1011,8 @@
 
 		if_competitive
 		{
-			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.1"
+			"xpos"			"cs-0.51"
+			"ypos"			"cs-0.11"
 			"fgcolor"		"kitsuuiLightWhite"
 			"font"			"AvenirBlack24"
 		}
@@ -1046,8 +1046,8 @@
 
 		if_competitive
 		{
-			"xpos"			"cs-2.5"
-			"ypos"			"cs-1.1"
+			"xpos"			"cs-0.48"
+			"ypos"			"cs-0.11"
 			"font"			"AvenirBlack24"
 		}
 

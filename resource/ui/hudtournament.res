@@ -1016,12 +1016,6 @@
 			"fgcolor"		"kitsuuiLightWhite"
 			"font"			"AvenirBlack24"
 		}
-
-		if_readymode
-		{
-			"xpos"			"300"
-			"ypos"			"130"
-		}
 	}
 	
 	"CountdownLabelShadow"
@@ -1049,12 +1043,6 @@
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.11"
 			"font"			"AvenirBlack24"
-		}
-
-		if_readymode
-		{
-			"xpos"			"300"
-			"ypos"			"130"
 		}
 	}
 }

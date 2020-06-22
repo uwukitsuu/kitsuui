@@ -123,7 +123,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"12"
+			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"AvenirBlack12"
 			"fgcolor"				"kitsuuiLightWhite"

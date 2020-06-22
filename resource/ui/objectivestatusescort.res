@@ -41,17 +41,15 @@
 		{
 			"ypos"			"114"
 			"zpos"			"3"
-			"tall"			"12"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"tall"			"10"
+			"image"			"../hud/cart_track"
 		}
 		
 		"if_single_with_hills"
 		{
-			"ypos"			"116"
-			"ypos_minmode"	"120"
-			"tall"			"18"
-			"tall_minmode"	"10"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"ypos"			"123"
+			"tall"			"10"
+			"image"			"../hud/cart_track"
 		}		
 	}	
 	
@@ -72,7 +70,7 @@
 		{
 			"ypos"			"114"
 			"zpos"			"6"
-			"tall"			"12"
+			"tall"			"10"
 			"visible"		"1"
 		}
 	}		
@@ -112,21 +110,21 @@
 		
 		"if_multiple_trains"
 		{
-			"xpos"			"59"
+			"xpos"			"69"		
 			"zpos"			"5"
-			"wide"			"14"
-			"tall"			"14"
+			"wide"			"10"
+			"tall"			"10"
 			"image"			"../hud/cart_track_neutral_opaque"
 		}
 		
 		"if_multiple_trains_top"
 		{
-			"ypos"			"113"
+			"ypos"			"114"
 		}
 		
 		"if_multiple_trains_bottom"
 		{
-			"ypos"			"113"
+			"ypos"			"114"
 		}
 		
 		"if_multiple_trains_red"
@@ -163,8 +161,8 @@
 			"xpos"			"61"
 			"ypos"			"114"
 			"zpos"			"5"	
-			"wide"			"12"
-			"tall"			"12"
+			"wide"			"10"
+			"tall"			"10"
 		}
 	}
 
@@ -219,7 +217,7 @@
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"46"
+				"ypos"			"52"
 			}										
 			
 			"if_multiple_trains_bottom"
@@ -258,10 +256,10 @@
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"11"
-				"ypos"			"43"
-				"wide"			"30"
-				"tall"			"30"
+				"xpos"			"25"
+				"ypos"			"66"
+				"wide"			"10"
+				"tall"			"10"
 			}						
 		}
 		
@@ -280,25 +278,25 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_neutral_bottom"
+			"image"			"../hud/cart_neutral"
 			"scaleImage"	"1"	
 			
 			"if_team_blue"
 			{
-				"image"			"../hud/cart_blue_bottom"
+				"image"			"../hud/cart_blue"
 			}			
 			
 			"if_team_red"
 			{
-				"image"			"../hud/cart_red_bottom"
+				"image"			"../hud/cart_red"
 			}
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"11"
-				"ypos"			"71"
-				"wide"			"30"
-				"tall"			"30"
+				"xpos"			"25"
+				"ypos"			"66"
+				"wide"			"10"
+				"tall"			"10"
 			}			
 		}
 		
@@ -306,18 +304,18 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"EscortItemImageAlert"	
-			"xpos"			"-4"
-			"ypos"			"38"
+			"xpos"			"9999"
+			"ypos"			"9999"
 			"zpos"			"0"
-			"wide"			"60"
-			"tall"			"30"
+			"wide"			"0"
+			"tall"			"0"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
-			"enabled"		"1"
+			"enabled"		"0"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_alert"
+			"image"			""
 			"scaleImage"	"1"
 			
 			"if_multiple_trains_bottom"
@@ -379,9 +377,9 @@
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"20"
+				"xpos"			"0"
 				"wide"			"5"
-				"tall"			"10"
+				"tall"			"0"
 			}
 			
 			"if_multiple_trains_top"
@@ -417,15 +415,14 @@
 			
 			"if_multiple_trains"
 			{
-				"font"			"ItemFontAttribSmall"
-				"xpos"			"25"
+				"xpos"			"23"
 				"wide"			"30"
 				"tall"			"10"
 			}			
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"46"
+				"ypos"			"53"
 			}										
 			
 			"if_multiple_trains_bottom"
@@ -461,7 +458,7 @@
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"46"
+				"ypos"			"53"
 			}	
 			
 			"if_multiple_trains_bottom"
@@ -486,8 +483,8 @@
 			{
 				"xpos"			"9"
 				"ypos"			"2"			
-				"wide"			"65"			
-				"tall"			"42"			
+				"wide"			"0"			
+				"tall"			"0"			
 			}	
 						
 			"Teardrop"

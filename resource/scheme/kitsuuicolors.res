@@ -29,5 +29,6 @@ Scheme
 		
 		"kitsuuiLightBlackTrans"	"43 43 43 180"
 		"kitsuuiLightWhiteTrans" "250 250 250 180"
+		"kitsuuiGreyTrans"	"80 80 80 180"
 	}
 }

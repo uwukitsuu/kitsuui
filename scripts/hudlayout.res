@@ -285,8 +285,8 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
-		"ypos"		"0"
+		"xpos"		"-10"
+		"ypos"		"-15"
 		"ypos_minmode"	"9999"
 		"wide"		"640"
 		"tall"		"480"
@@ -1351,12 +1351,11 @@
 		"fieldName" 	"HudMenuTauntSelection"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-235"
-		"ypos"			"c-200"
+		"xpos"			"0" //c-235
+		"ypos"			"145" //c-200
 		"ypos_minmode"	"9999"
 		"wide"			"470"
-		"tall"			"200"
-		"PaintBackgroundType"	"0"
+		"tall"			"470"
 	}
 
 	"ItemAttributeTracker"

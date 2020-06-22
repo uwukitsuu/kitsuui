@@ -342,4 +342,103 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_red_up"
 	}
+	"engiSentry"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiSentry"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_sentry_1"
+	}
+	"engiSentry2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiSentry2"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_sentry_2"
+	}
+	"engiSentry3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiSentry3"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_sentry_3"
+	}
+	"engiDispenser"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiDispenser"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_dispenser"
+	}
+	"engiTeleEnt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiTeleEnt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_tele_entrance"
+	}
+	"engiTeleExt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiTeleExt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_tele_exit"
+	}
+	"spySapper"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"spySapper"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_sapper"
+	}
+	"engiSentry3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"engiSentry3"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_obj_status_sentry_3"
+	}
+	"upgrade1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"upgrade1"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_upgrade_1"
+	}
+	"upgrade2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"upgrade2"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_upgrade_2"
+	}
+	"upgrade3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"upgrade3"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/hud_upgrade_3"
+	}
 }

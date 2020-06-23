@@ -271,13 +271,11 @@
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
-		"ypos"		"0"	
+		"xpos"		"-10"
+		"ypos"		"-15"	
 		"ypos_minmode"	"9999"		
 		"wide"		"640"
 		"tall"		"480"
-		
-		"PaintBackgroundType"	"2"
 	}
 	
 	BuildingStatus_Engineer
@@ -938,12 +936,11 @@
 		"fieldName" 	"HudMenuEngyBuild"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-225"
-		"ypos"			"c-55"
+		"xpos"			"0" 
+		"ypos"			"145" 
 		"ypos_minmode"	"9999"
-		"wide"			"450"
-		"tall"			"195"
-		"PaintBackgroundType"	"0"
+		"wide"			"470"
+		"tall"			"470"
 	}
 	
 	"HudMenuEngyDestroy"
@@ -951,12 +948,11 @@
 		"fieldName" 	"HudMenuEngyDestroy"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-225"
-		"ypos"			"c-59"
+		"xpos"			"0"
+		"ypos"			"145"
 		"ypos_minmode"	"9999"
-		"wide"			"450"
-		"tall"			"200"
-		"PaintBackgroundType"	"0"
+		"wide"			"470"
+		"tall"			"470"
 	}
 
 	"HudEurekaEffectTeleportMenu"
@@ -964,12 +960,11 @@
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-125"
-		"ypos"			"c-55"
+		"xpos"			"0"
+		"ypos"			"145"
 		"ypos_minmode"	"9999"
-		"wide"			"250"
-		"tall"			"195"
-		"PaintBackgroundType"	"0"
+		"wide"			"470"
+		"tall"			"470"
 	}
 	
 	"HudMenuSpyDisguise"
@@ -1351,8 +1346,8 @@
 		"fieldName" 	"HudMenuTauntSelection"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"0" //c-235
-		"ypos"			"145" //c-200
+		"xpos"			"0" 
+		"ypos"			"145" 
 		"ypos_minmode"	"9999"
 		"wide"			"470"
 		"tall"			"470"

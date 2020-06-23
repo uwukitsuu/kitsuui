@@ -91,6 +91,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
 			"font"			"AvenirHeavy8"
+			"fgcolor"		"kitsuuiLightWhite"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"

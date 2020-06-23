@@ -68,10 +68,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"AvenirBlack16"
-		"fgcolor"		"kitsuuiLightBlackTrans"
+		"fgcolor"		"kitsuuiLightBlack"
 		"xpos"			"7"			// align me to the left edge of the first selection
 		"ypos"			"31"
-		"zpos"			"3"
+		"zpos"			"1"
 		"wide"			"360"
 		"tall"			"38"
 		"autoResize"	"0"

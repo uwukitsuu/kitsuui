@@ -61,6 +61,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
 			"font"			"DefaultVerySmall"
+			"fgcolor"		"kitsuuiLightWhite"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"

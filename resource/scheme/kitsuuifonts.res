@@ -190,6 +190,16 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
+		"kitsuuiClassfont"
+		{
+			"1"
+			{
+				"name" 		"HudasIscariote"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
 	}
 	CustomFontFiles
 	{
@@ -217,5 +227,10 @@ Scheme
 		{
 			"font" "resource/fonts/AvenirLTStd-Book.otf"
 			"name" "AvenirLTStd-Book"
+		}
+		"14"
+		{
+			"font" "resource/fonts/HudasIscariote.otf"
+			"name" "HudasIscariote.otf"
 		}
 	}

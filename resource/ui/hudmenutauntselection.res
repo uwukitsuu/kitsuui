@@ -136,6 +136,8 @@
 		"visible"		"1"
 		"bgcolor_override"		"kitsuuiGrey"
 		"noitem_textcolor"		"117 107 94 255"
+		"PaintBackgroundType"	"0"
+		"paintborder"	"1"
 			
 		"model_ypos"	"3"
 		"model_tall"	"38"
@@ -193,7 +195,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-
+	
 	"TauntModelPanel2"
 	{
 		"ControlName"	"CItemModelPanel"

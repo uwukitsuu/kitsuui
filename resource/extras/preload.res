@@ -349,7 +349,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_sentry_1"
+		"image"			"../vgui/logos/buildings/hud_obj_status_sentry_1"
 	}
 	"engiSentry2"
 	{
@@ -358,7 +358,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_sentry_2"
+		"image"			"../vgui/logos/buildings/hud_obj_status_sentry_2"
 	}
 	"engiSentry3"
 	{
@@ -367,7 +367,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_sentry_3"
+		"image"			"../vgui/logos/buildings/hud_obj_status_sentry_3"
 	}
 	"engiDispenser"
 	{
@@ -376,7 +376,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_dispenser"
+		"image"			"../vgui/logos/buildings/hud_obj_status_dispenser"
 	}
 	"engiTeleEnt"
 	{
@@ -385,7 +385,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_tele_entrance"
+		"image"			"../vgui/logos/buildings/hud_obj_status_tele_entrance"
 	}
 	"engiTeleExt"
 	{
@@ -394,7 +394,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_tele_exit"
+		"image"			"../vgui/logos/buildings/hud_obj_status_tele_exit"
 	}
 	"spySapper"
 	{
@@ -403,7 +403,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_sapper"
+		"image"			"../vgui/logos/buildings/hud_obj_status_sapper"
 	}
 	"engiSentry3"
 	{
@@ -412,7 +412,7 @@
 		"xpos"			"9999"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/hud_obj_status_sentry_3"
+		"image"			"../vgui/logos/buildings/hud_obj_status_sentry_3"
 	}
 	"upgrade1"
 	{

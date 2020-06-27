@@ -200,6 +200,33 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"kitsuuiMenuIconfont"
+		{
+			"1"
+			{
+				"name" 		"hud_font_a1"
+				"tall"		"18"
+				"antialias"	"1"
+			}
+		}
+		"kitsuuiMenuIconfontSmall"
+		{
+			"1"
+			{
+				"name" 		"hud_font_a1"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		"kitsuuiMenuIconfontTiny"
+		{
+			"1"
+			{
+				"name" 		"hud_font_a1"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
 	}
 	CustomFontFiles
 	{
@@ -232,5 +259,10 @@ Scheme
 		{
 			"font" "resource/fonts/HudasIscariote.otf"
 			"name" "HudasIscariote.otf"
+		}
+		"14"
+		{
+			"font" "resource/fonts/hud_font_a1.ttf"
+			"name" "hud_font_a1"
 		}
 	}

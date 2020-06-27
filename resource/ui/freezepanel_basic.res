@@ -30,8 +30,8 @@
 			"tall"			"16"
 			"autoResize"		"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"labelText"		"#FreezePanel_Killer"
 			"textAlignment"		"center"
 			"dulltext"		"0"
@@ -63,10 +63,10 @@
 			"TextColor"		"HudOffWhite"
 		}	
 		
-		"FreezeLabelKillerr"
+		"FreezeLabelKiller2"
 		{	
 			"ControlName"	"Label"
-			"fieldName"		"FreezeLabelKillerr"
+			"fieldName"		"FreezeLabelKiller2"
 			"font"			"AvenirHeavy12"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -90,10 +90,10 @@
 			"pin_to_sibling_corner"	"6"
 		}
 		
-		"FreezeLabelKillerrShadow"
+		"FreezeLabelKiller2Shadow"
 		{	
 			"ControlName"	"Label"
-			"fieldName"		"FreezeLabelKillerrShadow"
+			"fieldName"		"FreezeLabelKiller2Shadow"
 			"font"			"AvenirHeavy12"
 			"xpos"			"0"
 			"ypos"			"0"
@@ -102,8 +102,8 @@
 			"tall"			"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"labelText"		"%killername%"
 			"textAlignment"		"west"
 			

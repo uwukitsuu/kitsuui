@@ -16,7 +16,7 @@
 
 	"EmptyImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"EmptyImage"
 		"xpos"			"1"
 		"ypos"			"1"
@@ -26,24 +26,29 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
-		"image"			"class_portraits/silhouette_alpha"
 		"mouseinputenabled"	"0"
+		"font"			"kitsuuiMenuIconfont"
+		"fgcolor"		"kitsuuiLightWhite"
+		"labeltext"		"H"
+		"textinsetx"	"8"
 	}
 
 	"LeaderIcon"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"LeaderIcon"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"14"
+		"ypos"			"2"
 		"zpos"			"105"
 		"wide"			"8"
 		"tall"			"8"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"importtool_goldstar"
-		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
+		"font"			"kitsuuiMenuIconfontTiny"
+		"fgcolor"		"kitsuuiLightWhite"
+		"labeltext"		"D"
+		"textinsetx"	"0"
 	}
 
 	"BannedIcon"
@@ -61,7 +66,7 @@
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 		"proportionaltoparent"	"1"
-		"drawcolor"	"255 0 0 255"
+		"drawcolor"	"kitsuuiRedTeam"
 	}
 
 	"OutOfDateIcon"
@@ -79,12 +84,12 @@
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 		"proportionaltoparent"	"1"
-		"drawcolor"	"OrangeDim"
+		"drawcolor"	"kitsuuiKitsune"
 	}
 
 	"OfflineIcon"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"OfflineIcon"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
@@ -93,11 +98,12 @@
 		"tall"			"p0.65"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"gc_dc"
-		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 		"proportionaltoparent"	"1"
-		"drawcolor"	"OrangeDim"
+		"font"			"kitsuuiMenuIconfontSmall"
+		"fgcolor_override"	"kitsuuiKitsune"
+		"labeltext"		"x"
+		"textinsetx"	"5"
 	}
 
 	"StatusDimmer"
@@ -111,7 +117,7 @@
 		"tall"			"f2"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"0 0 0 240"
+		"bgcolor_override"	"kitsuuiLightBlackTrans"
 	}
 
 	"InteractButton"
@@ -165,6 +171,6 @@
 
 		"radius"		"26"
 		"velocity"		"60"
-		"fgcolor_override"	"Orange"
+		"fgcolor_override"	"kitsuuiKitsune"
 	}
 }

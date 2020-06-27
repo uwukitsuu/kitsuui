@@ -207,14 +207,14 @@
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
 			"xpos"			"65"
-			"ypos"			"5"
+			"ypos"			"-3"
 			"wide"			"f0"
 			"zpos"			"100"
-			"tall"			"20"
+			"tall"			"36"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"HudFontSmallishBold"
-			"fgcolor_override"	"TanLight"
+			"font"			"AvenirBlack24"
+			"fgcolor_override"	"kitsuuiLightWhite"
 			"textAlignment"	"north-west"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
@@ -230,14 +230,14 @@
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
 			"xpos"			"65"
-			"ypos"			"19"
+			"ypos"			"21"
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"HudFontSmallestBold"
-			"fgcolor_override"	"TanLight"
+			"font"			"AvenirHeavy12"
+			"fgcolor_override"	"kitsuuiLightWhite"
 			"textAlignment"	"north-west"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
@@ -247,13 +247,6 @@
 				"xpos"	"67"
 				"ypos"	"4"
 			}
-
-			"fonts"
-			{
-				"0"		"HudFontSmallestBold"
-				"1"		"StorePromotionsTitle"
-				"2"		"FontStorePrice"
-			}
 		}
 
 		"DescLine2"
@@ -261,14 +254,14 @@
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine2"
 			"xpos"			"65"
-			"ypos"			"29"
+			"ypos"			"31"
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"HudFontSmallestBold"
-			"fgcolor_override"	"TanLight"
+			"font"			"AvenirHeavy12"
+			"fgcolor_override"	"kitsuuiLightWhite"
 			"textAlignment"	"north-west"
 			"labelText"		"%desc2%"
 			"proportionaltoparent"	"1"
@@ -277,13 +270,6 @@
 			{
 				"xpos"	"67"
 				"ypos"	"4"
-			}
-
-			"fonts"
-			{
-				"0"		"HudFontSmallestBold"
-				"1"		"StorePromotionsTitle"
-				"2"		"FontStorePrice"
 			}
 
 			"colors"
@@ -298,7 +284,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
 			"xpos"			"rs1-5"
-			"ypos"			"0"
+			"ypos"			"2"
 			"wide"			"f70"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
@@ -333,8 +319,8 @@
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ItemFontAttribSmall"
-					"fgcolor_override"	"TanLight"
+					"font"			"AvenirHeavy8"
+					"fgcolor_override"	"kitsuuiLightWhite"
 					"textAlignment"	"south-west"
 					"labelText"		"%current_xp%"
 					"proportionaltoparent"	"1"
@@ -351,8 +337,8 @@
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"ItemFontAttribSmall"
-					"fgcolor_override"	"TanLight"
+					"font"			"AvenirHeavy8"
+					"fgcolor_override"	"kitsuuiExpanse"
 					"textAlignment"	"south-east"
 					"labelText"		"%next_level_xp%"
 					"proportionaltoparent"	"1"
@@ -395,7 +381,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"kitsuuiExpanse"
 					}
 
 					"Frame"
@@ -408,7 +394,6 @@
 						"tall"			"f0"
 						"zpos"			"5"
 						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
 					}
 				}
 			}

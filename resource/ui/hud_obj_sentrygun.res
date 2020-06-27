@@ -228,7 +228,7 @@
 			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"	
-			"fgcolor_override"	"White"
+			"fgcolor_override"	"kitsuuiLightWhite"
 		}
 		
 		"BuildingPanel"

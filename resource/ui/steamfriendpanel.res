@@ -28,8 +28,8 @@
 		"roundedcorners"	"0"
 		"paintbackground"	"1"
 
-		"defaultBgColor_override"	"0 0 0 0"
-		"armedBgColor_override"	"94 150 49 5"
+		"defaultBgColor_override"	"kitsuuiGrey"
+		"armedBgColor_override"	"159 198 88 25" //kitsuuiExpanse
 
 		"border_default"	"NoBorder"
 		"border_armed"		"FriendHighlightBorder"
@@ -43,7 +43,7 @@
 		"ypos"					"0"
 		"zpos"					"100"
 		"wide"					"f22"
-		"tall"					"10"
+		"tall"					"15"
 		"textAlignment"			"north-west"
 		"visible"				"1"
 		"enabled"				"1"
@@ -51,7 +51,8 @@
 		"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
-		"font"					"ControlPointTimer"
+		"font"					"AvenirHeavy12"
+		"fgcolor_override"		"kitsuuiLightWhite"
 		"mouseinputenabled"		"0"
 	}
 
@@ -59,7 +60,7 @@
 	{
 		"fieldName"				"StatusLabel"
 		"xpos"					"rs1"
-		"ypos"					"8"
+		"ypos"					"12"
 		"zpos"					"100"
 		"wide"					"f22"
 		"tall"					"10"
@@ -70,8 +71,8 @@
 		"wrap"					"0"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
-		"font"					"QuestObjectiveTracker_Desc"
-		"fgcolor_override"				"TanDark"
+		"font"					"AvenirHeavy8"
+		"fgcolor_override"		"kitsuuiLightWhite"
 		"mouseinputenabled"		"0"
 	}
 }

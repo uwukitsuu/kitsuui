@@ -30,5 +30,13 @@ Scheme
 		"kitsuuiLightBlackTrans"	"43 43 43 180"
 		"kitsuuiLightWhiteTrans" "250 250 250 180"
 		"kitsuuiGreyTrans"	"80 80 80 180"
+		
+		
+		//Alt Color scheme
+		"kitsuuiTide"	"71 175 255 255"
+		"kitsuuiExpanse" "159 198 88 255"
+		"kitsuuiKitsune" "255 117 31 255" 
+		"kitsuuiDusk"	"18 44 52 255"
+		"kitsuuiDawn"  "245 245 245 255" 
 	}
 }

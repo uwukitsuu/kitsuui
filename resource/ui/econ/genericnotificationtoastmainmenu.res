@@ -69,14 +69,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"56 47 29 255"
-		"fgcolor_override" "56 47 29 255"
-		"if_high_priority"
-		{
-			"fgcolor"			"BrightYellow"
-			"fgcolor_override"	"BrightYellow"
-			"font"				"StorePromotionsTitle"
-		}
+		"fgcolor"		"kitsuuiLightWhite"
+		"fgcolor_override" "kitsuuiLightWhite"
 		"xpos"			"7"
 		"ypos"			"7"
 		"zpos"			"2"
@@ -89,6 +83,6 @@
 		"wrap"			"1"
 		"labelText"		"%text%"
 		"textAlignment"	"West"
-		"font"			"HudFontSmallest"
+		"font"			"AvenirHeavy12"
 	}
 }

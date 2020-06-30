@@ -7,7 +7,7 @@
 		"enabled"				"1"
 		"xpos"					"5"
 		"ypos"					"10"
-		"zpos"					"1001"
+		"zpos"					"1005"
 		"wide"					"200"
 		"tall"					"200"
 		"proportionaltoparent"	"1"
@@ -15,14 +15,14 @@
 		"mouseinputenabled"		"1"
 		"border"		"QuickplayBorder"
 
-		"log_font_small"			"HudFontSmall"
-		"log_font_medium"			"HudFontMediumSmallSecondary"
-		"log_font_large"			"HudFontMediumSecondary"
+		"log_font_small"			"AvenirHeavy16"
+		"log_font_medium"			"AvenirHeavy16"
+		"log_font_large"			"AvenirHeavy16"
 
-		"chat_color_default"		"255 255 255 255"
-		"chat_color_player_name"	"255 255 0 255"
-		"chat_color_chat_text"		"255 255 255 255"
-		"chat_color_party_event"	"Orange"
+		"chat_color_default"		"kitsuuiLightWhite"
+		"chat_color_player_name"	"kitsuuiKitsune"
+		"chat_color_chat_text"		"kitsuuiLightWhite"
+		"chat_color_party_event"	"kitsuuiExpanse"
 
 		"collapsed_height"		"0"
 		"expanded_height"		"200"
@@ -42,7 +42,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"	"0"
-		"font"			"HudFontSmallest"
+		"font"			"AvenirHeavy12"
 		
 		"bgcolor_override"	"0 0 0 50"
 
@@ -94,7 +94,7 @@
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 255"
 		"RoundedCorners"	"0"
-		"font"			"HudFontSmallest"
+		"font"			"AvenirHeavy12"
 		"alpha"			"0"
 		"mouseinputenabled"	"0"
 

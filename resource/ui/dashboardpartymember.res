@@ -102,7 +102,7 @@
 		"proportionaltoparent"	"1"
 		"font"			"kitsuuiMenuIconfontSmall"
 		"fgcolor_override"	"kitsuuiKitsune"
-		"labeltext"		"x"
+		"labeltext"		"r"
 		"textinsetx"	"5"
 	}
 

@@ -350,47 +350,23 @@
 		"wide"			"200"
 		"tall"			"70"
 		"visible"		"1"
-		"fillcolor"		"kitsuuiLightBlack"
+		"fillcolor"		"kitsuuiLightBlackTrans"
 	}
 
 	"NoGCMessage"
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NoGCMessage"
-		"xpos"			"c-290"
-		"ypos"			"94"
-		"zpos"			"-99"
-		"wide"			"260"
-		"tall"			"100"
+		"xpos"			"5"
+		"ypos"			"10"
+		"zpos"			"-6"
+		"wide"			"200"
+		"tall"			"70"
 		"visible"		"1"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
-		"wrap"			"1"
-		"textinsetx"	"40"
-		"textinsety"	"10"
-
-		"font"			"HudFontSmallestBold"
-		"fgcolor_override"	"TanLight"
-		"labelText"		"#TF_MM_NoGC_Rank"
-		"textAlignment"	"north-west"
-		"use_proportional_insets"	"1"
+		"font"			"AvenirBlack24"	
+		"fgcolor_override"		"kitsuuiRedTeam"
+		"labelText"		"No Connection"
 	}
-
-	"NoGCImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"NoGCImage"
-		"xpos"			"c-285"
-		"ypos"			"107"
-		"zpos"			"-99"
-		"wide"			"30"
-		"tall"			"30"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"gc_dc"
-		"scaleImage"	"1"
-		"proportionaltoparent" "1"
-	}	
 
 	"RankBorder"
 	{
@@ -1283,7 +1259,7 @@
 			"wide"			"260"
 			"tall"			"150"
 			"visible"		"1"
-			"fillcolor"		"kitsuuiLightBlack"
+			"fillcolor"		"kitsuuiLightBlackTrans"
 		}
 
 		"InnerShadow"
@@ -2046,7 +2022,7 @@
 		"wide"			"200"
 		"tall"			"70"
 		"visible"		"1"
-		"fillcolor"		"kitsuuiLightBlack"
+		"fillcolor"		"kitsuuiLightBlackTrans"
 	}
 	
 	"kitsuuiTitle"
@@ -2078,7 +2054,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"textinsetx"	"2"
+		"textinsetx"	"5"
+		"textinsety"	"1"
 		"use_proportional_insets" "1"
 		"font"			"kitsuuiMenuIconfont"
 		"textAlignment"	"west"
@@ -2086,7 +2063,7 @@
 		"brighttext"	"0"
 		"default"		"1"
 		"command"		"engine open_charinfo"
-		"labeltext"		"1"
+		"labeltext"		"y"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionaltoparent"	"1"

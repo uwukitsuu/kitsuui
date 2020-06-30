@@ -200,6 +200,25 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"kitsuuiClassfontLoadout"
+		{
+			"1"
+			{
+				"name" 		"HudasIscariote"
+				"tall"		"72"
+				"antialias"	"1"
+			}
+		}
+		
+		"kitsuuiMenuIconfontBig"
+		{
+			"1"
+			{
+				"name" 		"hud_font_a1"
+				"tall"		"36"
+				"antialias"	"1"
+			}
+		}
 		"kitsuuiMenuIconfont"
 		{
 			"1"

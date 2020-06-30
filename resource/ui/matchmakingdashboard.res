@@ -118,7 +118,7 @@
 			"brighttext"	"0"
 			"Command"		"toggle_chat"
 			"proportionaltoparent"	"1"
-			"labeltext"		"t"
+			"labeltext"		">"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
@@ -696,7 +696,7 @@
 			"defaultFgColor_override" "kitsuuiLightWhite"
 			"armedFgColor_override" "kitsuuiLightWhite"
 		}
-		
+	
 		"FindAGameButton2"
 		{
 		"ControlName"	"CExImageButton"
@@ -729,6 +729,44 @@
 		"actionsignallevel"	"2"
 		
 		"armedBgColor_override"		"kitsuuiExpanse"
+		"defaultBgColor_override"	"kitsuuiGrey"
+		"defaultFgColor_override" "kitsuuiLightWhite"
+		"armedFgColor_override" "kitsuuiLightWhite"
+		
+		}
+		
+		"ResumeButton"
+		{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"ResumeButton"
+		"xpos"			"rs1-31"
+		"ypos"			"9999"
+		"wide"			"30"
+		"tall"			"30"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"0`"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"textinsetx"	"8"
+		"textinsety"	"6"
+		"use_proportional_insets" "1"
+		"font"			"kitsuuiMenuIconfont"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
+		"Command"		"resume_game"
+		"labeltext"		"L"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"proportionaltoparent"	"1"
+		"roundedcorners"	"0"
+		"mouseinputenabled"	"1"
+		"keyboardinputenabled"	"0"
+		"actionsignallevel"	"2"
+		
+		"armedBgColor_override"		"kitsuuiTide"
 		"defaultBgColor_override"	"kitsuuiGrey"
 		"defaultFgColor_override" "kitsuuiLightWhite"
 		"armedFgColor_override" "kitsuuiLightWhite"

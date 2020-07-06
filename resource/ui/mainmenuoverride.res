@@ -471,8 +471,8 @@
 			"zpos"			"3"
 			"wide"			"25"
 			"tall"			"25"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"font"			"kitsuuiMenuIconfontSmall"
 			"labelText"		"p"
 			"fgcolor"		"kitsuuiKitsune"
@@ -485,15 +485,15 @@
 			"font"			"AvenirHeavy8"
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
-			"xpos"			"14"
-			"ypos"			"4"
+			"xpos"			"16"
+			"ypos"			"3"
 			"zpos"			"4"
 			"wide"			"16"
 			"tall"			"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"fgcolor_override"	"255 255 255 255"
 		}
 	
@@ -511,7 +511,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		"!"
+			"labelText"		"p"
 			"textinsetx"	"2"
 			"font"			"kitsuuiMenuIconfont"
 			"textAlignment"	"center"
@@ -690,7 +690,7 @@
 			"wide"			"300"
 			"tall"			"22"
 			"visible"		"1"
-			"fgcolor_override"	"kitsuuiKitsune"
+			"bgcolor_override"	"kitsuuiKitsune"
 			
 			"MOTD_HeaderLabel"
 			{
@@ -736,13 +736,13 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 			"mouseinputenabled"	"1"
+			"roundedcorners"	"0"
 
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"Command"		"motd_hide"
 			
-			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "kitsuuiLightWhite"
 			"armedFgColor_override" "kitsuuiTeamRed"			
@@ -911,6 +911,7 @@
 			"command"		"motd_viewurl"
 			"proportionaltoparent" "1"
 			"actionsignallevel"	"2"
+			"roundedcorners"	"0"
 
 
 			"navUp"			"MOTD_CloseButton"
@@ -921,9 +922,9 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultFgColor_override" "kitsuuiLightWhite"
-			"defaultBgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "235 226 202 255"
+			"defaultBgColor_override" "kitsuuiGrey"
+			"armedBgColor_override" "kitsuuiKitsune"
+			"depressedFgColor_override" "kitsuuiLightWhite"
 		}	
 		
 		"MOTD_PrevButton"
@@ -1950,7 +1951,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"textinsety"	"1"
-			"textinsetx"	"4"
+			"textinsetx"	"5"
 			"use_proportional_insets" "1"
 			"font"			"kitsuuiMenuIconfont"
 			"textAlignment"	"west"
@@ -2137,7 +2138,7 @@
 		"labelText"		"s"
 		"font"			"kitsuuiMenuIconfont"
 		"textAlignment"	"west"
-		"textinsetx"	"4"
+		"textinsetx"	"5"
 		"use_proportional_insets" "1"
 		"dulltext"		"0"
 		"brighttext"	"0"

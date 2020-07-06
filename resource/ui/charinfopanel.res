@@ -112,11 +112,11 @@
 		}
 	}
 	
-	"BackButton"
+	"BackButton2"
 	{
-		"ControlName"	"CExButton"
-		"fieldName"		"BackButton"
-		"xpos"			"45"
+		"ControlName"	"CExImageButton"
+		"fieldName"		"BackButton2"
+		"xpos"			"50"
 		"ypos"			"32"
 		"zpos"			"2"
 		"wide"			"20"
@@ -138,6 +138,10 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"roundedcorners"	"0"
+		"mouseinputenabled"	"1"
+		"defaultBgColor_override" "kitsuuiGrey"
+		"armedBgColor_override" "kitsuuiKitsune"
+		"depressedBgColor_override" "kitsuuiKitsune"
 	}		
 	
 	"NotificationsPresentPanel"

@@ -28,7 +28,7 @@
 	}
 	"ReportPlayerButton"
 	{
-		"label"			"5"
+		"label"			"!"
 		"command"		"OpenReportPlayerDialog"
 		"OnlyInGame"	"1"
 		"subimage"		"glyph_alert"

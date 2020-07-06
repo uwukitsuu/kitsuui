@@ -140,6 +140,16 @@ Scheme
 		}
 		
 		//Bold Universal font
+		"AvenirBlack64"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Black"
+				"tall"		"64"
+				"weight"	"700"
+				"antialias"	"1"
+			}
+		}
 		"AvenirBlack48"
 		{
 			"1"
@@ -289,7 +299,7 @@ Scheme
 			"font" "resource/fonts/HudasIscariote.otf"
 			"name" "HudasIscariote.otf"
 		}
-		"14"
+		"15"
 		{
 			"font" "resource/fonts/hud_font_a1.ttf"
 			"name" "hud_font_a1"

@@ -2,9 +2,9 @@ Scheme
 {
 	BaseSettings
 	{
-		Econ.Button.PresetDefaultColorFg	"kitsuuiKitsune"
-		Econ.Button.PresetArmedColorFg		"kitsuuiKitsune"
-		Econ.Button.PresetDepressedColorFg	"kitsuuiKitsune"
+		Econ.Button.PresetDefaultColorFg	"kitsuuiLightWhite"
+		Econ.Button.PresetArmedColorFg		"kitsuuiLightWhite"
+		Econ.Button.PresetDepressedColorFg	"kitsuuiLightWhite"
 		
 		Econ.Button.PresetDefaultColorBg	"kitsuuiKitsune"
 		Econ.Button.PresetArmedColorBg		"kitsuuiKitsune"
@@ -13,7 +13,7 @@ Scheme
 		Button.TextColor					"kitsuuiLightWhite"
 		Button.ArmedTextColor				"kitsuuiLightWhite"
 		Button.SelectedTextColor			"kitsuuiLightWhite"
-		Button.DepressedTextColor			"BlackColor"
+		Button.DepressedTextColor			"kitsuuiLightWhite"
 		
 		Button.BgColor						"kitsuuiGrey"
 		Button.ArmedBgColor					"kitsuuiKitsune"

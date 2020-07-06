@@ -128,6 +128,16 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"AvenirHeavy4"
+		{
+			"1"
+			{
+				"name" 		"AvenirLTStd-Heavy"
+				"tall"		"4"
+				"weight"	"700"
+				"antialias"	"1"
+			}
+		}
 		
 		//Bold Universal font
 		"AvenirBlack48"

@@ -64,7 +64,7 @@
 		{
 			"1"
 			{
-				"font"			"AvenirHeavy16" // Secondary 10
+				"font"			"AvenirHeavy12" // Secondary 10
 			}
 			"2"
 			{

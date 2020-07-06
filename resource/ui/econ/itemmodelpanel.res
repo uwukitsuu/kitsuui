@@ -82,7 +82,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"namelabel"
-			"font"			"ItemFontNameLarge"
+			"font"			"AvenirBlack16"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"
@@ -92,6 +92,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"textinsety"	"1"
 			"labelText"		"%itemname%"
 			"textAlignment"	"south"
 			"fgcolor"		"235 226 202 255"
@@ -101,7 +102,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
-			"font"			"ItemFontAttribLarge"
+			"font"			"AvenirHeavy12"
 			"xpos"			"0"
 			"ypos"			"30"
 			"zpos"			"2"
@@ -121,7 +122,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"equippedlabel"
-			"font"			"ItemFontAttribSmall"
+			"font"			"AvenirHeavy8"
 			"xpos"			"37"
 			"ypos"			"28"
 			"zpos"			"2"
@@ -156,7 +157,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"quantitylabel"
-			"font"			"ItemFontAttribSmall"
+			"font"			"AvenirHeavy12"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -177,7 +178,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"serieslabel"
-			"font"			"ItemFontAttribSmall"
+			"font"			"AvenirHeavy12"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
@@ -198,7 +199,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"matcheslabel"
-			"font"			"ItemFontAttribSmall"
+			"font"			"AvenirHeavy12"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"

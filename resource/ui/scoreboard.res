@@ -160,18 +160,19 @@
 	}
 	"MainBG"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"MainBG"
 		"xpos"			"0"
 		"ypos"			"38"
 		"zpos"			"-1"
 		"wide"			"640"
-		"tall"			"410"
+		"tall"			"320"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"border"		"TFThinLineBorder"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"kitsuuiLightBlack"
+		"alpha"			"130"
 		
 		if_mvm
 		{
@@ -611,7 +612,7 @@
 		"xpos"			"4"
 		"ypos"			"372"
 		"zpos"			"-2"
-		"wide"			"215"
+		"wide"			"448"
 		"tall"			"72"
 		"autoResize"	"0"
 		"pinCorner"		"0"

@@ -2232,7 +2232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"AvenirLTStd-Black"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2243,7 +2243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"AvenirLTStd-Black"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2254,7 +2254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"AvenirLTStd-Black"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2265,7 +2265,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"AvenirLTStd-Black"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2276,7 +2276,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2287,7 +2287,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2297,7 +2297,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2308,7 +2308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2319,7 +2319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"

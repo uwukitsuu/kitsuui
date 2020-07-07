@@ -2042,7 +2042,7 @@
 		"wide"			"200"
 		"tall"			"70"
 		"visible"		"1"
-		"font"			"AvenirBlack24"	
+		"font"			"Black24"	
 		"fgcolor"		"kitsuuiKitsune"
 		"labelText"		"kitsuui"
 		

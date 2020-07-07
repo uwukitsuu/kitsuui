@@ -1,6 +1,11 @@
 #base "scheme/kitsuuicolors.res"
 #base "scheme/kitsuuifonts.res"
 #base "scheme/kitsuuibuttons.res"
+#base "scheme/lato/regular.res"
+#base "scheme/lato/medium.res"
+#base "scheme/lato/semibold.res"
+#base "scheme/lato/bold.res"
+#base "scheme/lato/black.res"
 //
 // TRACKER SCHEME RESOURCE FILE
 //

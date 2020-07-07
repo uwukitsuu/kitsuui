@@ -297,7 +297,7 @@ Scheme
 		"14"
 		{
 			"font" "resource/fonts/HudasIscariote.otf"
-			"name" "HudasIscariote.otf"
+			"name" "HudasIscariote"
 		}
 		"15"
 		{

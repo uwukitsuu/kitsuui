@@ -152,7 +152,7 @@
 		{	
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"xpos"			"13"
 			"ypos"			"20"
 			"wide"			"8"
@@ -181,7 +181,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
-				"font"			"AvenirHeavy8"
+				"font"			"Med8"
 				"xpos"			"0"
 				"ypos"			"18"
 				"wide"			"200"
@@ -200,7 +200,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
-				"font"			"AvenirHeavy8"
+				"font"			"Med8"
 				"xpos"			"0"
 				"ypos"			"29"
 				"wide"			"50"
@@ -247,7 +247,7 @@
 			{	
 				"ControlName"	"CExLabel"
 				"fieldName"		"KillsLabel"
-				"font"			"AvenirHeavy8"
+				"font"			"Med8"
 				"fgcolor"		"White"
 				"xpos"			"0"
 				"ypos"			"13"

@@ -40,7 +40,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 	}
 
 	"ChargeMeter"
@@ -107,7 +107,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 			"fgcolor"		"kitsuuiLightWhite"
 		}
 		"NumPipesLabelDropshadow"
@@ -128,7 +128,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 			"fgcolor"		"kitsuuiLightBlackTrans"
 		}		
 	}
@@ -179,7 +179,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"	"AvenirBlack24"
+			"font"	"Black24"
 			"fgcolor"		"kitsuuiLightWhite"
 		}
 		"NumPipesLabelDropshadow"
@@ -200,7 +200,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 			"fgcolor"		"kitsuuiLightBlackTrans"
 		}			
 	}				

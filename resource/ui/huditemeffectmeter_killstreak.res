@@ -51,7 +51,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 		"fillcolor"				"kitsuuiLightBlackTrans"
 	}
 
@@ -59,7 +59,7 @@
 	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 		"xpos"					"25"
 		"ypos"					"23"
 		"zpos"					"2"

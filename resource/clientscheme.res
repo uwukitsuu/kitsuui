@@ -452,7 +452,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -460,7 +460,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"900"
@@ -469,7 +469,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -478,7 +478,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -487,7 +487,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -496,14 +496,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"Lato Medium"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -1855,7 +1855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1863,7 +1863,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1871,7 +1871,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1879,7 +1879,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1887,7 +1887,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1898,7 +1898,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1906,7 +1906,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1914,7 +1914,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1922,7 +1922,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1930,7 +1930,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2237,7 +2237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Black"
+				"name"		"Lato Black"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2248,7 +2248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Black"
+				"name"		"Lato Black"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2259,7 +2259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Black"
+				"name"		"Lato Black"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2270,7 +2270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Black"
+				"name"		"Lato Black"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2281,7 +2281,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2292,7 +2292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2302,7 +2302,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2313,7 +2313,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2324,7 +2324,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Medium"
+				"name"		"Lato Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"

@@ -79,6 +79,6 @@
 		"wrap"			"1"
 		"labelText"		"%text%"
 		"textAlignment"	"West"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 	}
 }

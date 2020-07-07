@@ -52,14 +52,14 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 	}
 
 	"ItemEffectMeter"
 	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 		"xpos"					"25"
 		"ypos"					"23"
 		"ypos_minmode"			"0"
@@ -96,7 +96,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"AvenirBlack24"
+		"font"					"Black24"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -117,6 +117,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightBlackTrans"
-		"font"					"AvenirBlack24"
+		"font"					"Black24"
 	}
 }

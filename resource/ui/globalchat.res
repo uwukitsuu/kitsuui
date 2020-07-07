@@ -15,9 +15,9 @@
 		"mouseinputenabled"		"1"
 		"border"		"QuickplayBorder"
 
-		"log_font_small"			"AvenirHeavy16"
-		"log_font_medium"			"AvenirHeavy16"
-		"log_font_large"			"AvenirHeavy16"
+		"log_font_small"			"Med16"
+		"log_font_medium"			"Med16"
+		"log_font_large"			"Med16"
 
 		"chat_color_default"		"kitsuuiLightWhite"
 		"chat_color_player_name"	"kitsuuiKitsune"
@@ -42,7 +42,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"	"0"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 		
 		"bgcolor_override"	"0 0 0 50"
 
@@ -94,7 +94,7 @@
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 255"
 		"RoundedCorners"	"0"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 		"alpha"			"0"
 		"mouseinputenabled"	"0"
 

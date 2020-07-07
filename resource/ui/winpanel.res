@@ -44,7 +44,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"center"
 			"xpos"			"110"
@@ -62,7 +62,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"AvenirBlack48"
+			"font"			"Black48"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"	"east"
 			"xpos"			"80"
@@ -80,7 +80,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScoreDropshadow"
-			"font"			"AvenirBlack48"
+			"font"			"Black48"
 			"fgcolor"		"kitsuuiLightBlackTrans"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
@@ -126,7 +126,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"center"
 			"xpos"			"175"
@@ -144,7 +144,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"AvenirBlack48"
+			"font"			"Black48"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"			"202"
@@ -162,7 +162,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScoreDropshadow"
-			"font"			"AvenirBlack48"
+			"font"			"Black48"
 			"fgcolor"		"kitsuuiLightBlackTrans"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
@@ -227,7 +227,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"xpos"			"16"
 		"ypos"			"70"
 		"zpos"			"1"
@@ -246,7 +246,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabelDropshadow"
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"fgcolor"		"kitsuuiLightBlackTrans"
 		"xpos"			"17"
 		"ypos"			"71"

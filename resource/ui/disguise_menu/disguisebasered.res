@@ -74,7 +74,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"AvenirHeavy16"
+		"font"			"Bold16"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"-20"
 		"ypos"			"42"
@@ -94,7 +94,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"AvenirHeavy16"
+		"font"			"Bold16"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"-20"
 		"ypos"			"42"

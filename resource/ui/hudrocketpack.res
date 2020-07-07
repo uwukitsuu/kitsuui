@@ -63,7 +63,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 		"fgcolor"		"kitsuuiLightWhite"
 	}
 

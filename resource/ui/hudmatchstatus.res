@@ -62,7 +62,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"xpos"			"cs-0.51"
 		"ypos"			"cs-0.11"
 		"wide"			"40"
@@ -89,7 +89,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"xpos"			"cs-0.49"
 		"ypos"			"cs-0.11"
 		"wide"			"40"
@@ -290,7 +290,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"AvenirBlack12"
+		"delta_item_font"		"Black12"
 
 		if_match
 		{
@@ -303,14 +303,14 @@
 			"PositiveColor"			"kitsuuiHighValue"
 			"NegativeColor"			"kitsuuiLowValue"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"AvenirBlack12"
+			"delta_item_font"		"Black12"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"AvenirBlack12"
+			"font"			"Black12"
 			"fgcolor"		"kitsuuiLightWhite"
 			"xpos"			"23"
 			"ypos"			"11"
@@ -329,7 +329,7 @@
 				"ypos"			"0"
 				"wide"			"30"
 				"tall"			"15"
-				"font"			"AvenirBlack12"
+				"font"			"Black12"
 				"bgcolor_override"	"kitsuuiLightBlackTrans"
 			}
 		}	
@@ -519,7 +519,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"AvenirHeavy8"
+				"font"			"Med8"
 				"fgcolor"		"kitsuuiLightWhite"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"

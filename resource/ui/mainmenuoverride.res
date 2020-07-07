@@ -368,7 +368,7 @@
 		"wide"			"200"
 		"tall"			"70"
 		"visible"		"1"
-		"font"			"AvenirBlack24"	
+		"font"			"Black24"	
 		"fgcolor_override"		"kitsuuiRedTeam"
 		"labelText"		"No Connection"
 	}
@@ -403,7 +403,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipSubLabel"
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"labelText"		"%tipsubtext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -424,7 +424,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"AvenirHeavy8"
+			"font"			"Med8"
 			"labelText"		"%tiptext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -482,7 +482,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_CountLabel"
-			"font"			"AvenirHeavy8"
+			"font"			"Med8"
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
 			"xpos"			"16"
@@ -696,7 +696,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"MOTD_HeaderLabel"
-				"font"			"AvenirBlack24"
+				"font"			"Black24"
 				"textAlignment"	"center"
 				"labelText"		"%motdheader%"
 				"xpos"			"0"
@@ -744,8 +744,8 @@
 			"Command"		"motd_hide"
 			
 			
-			"defaultFgColor_override" "kitsuuiLightWhite"
-			"armedFgColor_override" "kitsuuiTeamRed"			
+			"defaultBgColor_override" "kitsuuiLightWhite"
+			"armedBgColor_override" "kitsuuiTeamRed"			
 		}	
 
 		"MOTD_HeaderIcon"
@@ -767,7 +767,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_TitleLabel"
-			"font"			"AvenirBlack16"
+			"font"			"Black16"
 			"labelText"		"%motdtitle%"
 			"textAlignment"	"west"
 			"xpos"			"10"
@@ -786,7 +786,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"MOTD_Label"
-			"font"			"AvenirHeavy8"
+			"font"			"Med8"
 			"labelText"		"%motddate%"
 			"textAlignment"	"north-west"
 			"xpos"			"10"
@@ -869,7 +869,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"MOTD_TextLabel"
-					"font"			"AvenirHeavy8"
+					"font"			"Med8"
 					"labelText"		"%motdtext%"
 					"textAlignment"	"north-west"
 					"xpos"			"0"
@@ -903,7 +903,7 @@
 			"labelText"		"#MMenu_MOTD_URL"
 			"textinsetx"	"20"
 			"use_proportional_insets" "1"
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1089,7 +1089,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_TitleLabel"
-			"font"			"AvenirBlack16"
+			"font"			"Black16"
 			"labelText"		"%notititle%"
 			"textAlignment"	"north-west"
 			"xpos"			"12"
@@ -1240,7 +1240,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 			"labelText"		"Friends"
 			"textAlignment"	"west"
 			"xpos"			"5"

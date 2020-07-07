@@ -25,7 +25,7 @@
 		"PositiveColor"			"kitsuuiHighValue"
 		"NegativeColor"			"kitsuuiLowValue"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"AvenirBlack12"
+		"delta_item_font"		"Black12"
 
 		if_match
 		{
@@ -38,14 +38,14 @@
 			"PositiveColor"			"kitsuuiHighValue"
 			"NegativeColor"			"kitsuuiLowValue"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"AvenirBlack12"
+			"delta_item_font"		"Black12"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"AvenirBlack12"
+			"font"			"Black12"
 			"xpos"			"23"
 			"ypos"			"11"
 			"zpos"			"3"
@@ -63,7 +63,7 @@
 				"ypos"			"12"
 				"tall"			"15"
 				"wide"			"35"
-				"font"			"AvenirBlack12"
+				"font"			"Black12"
 				"fgcolor_override"	"kitsuuiLightBlack"
 				"bgcolor_override"	"kitsuuiBlueTeamTrans"
 			}
@@ -87,7 +87,7 @@
 		"PositiveColor"			"kitsuuiHighValue"
 		"NegativeColor"			"kitsuuiLowValue"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"AvenirBlack12"
+		"delta_item_font"		"Black12"
 
 		if_match
 		{
@@ -100,14 +100,14 @@
 			"PositiveColor"			"kitsuuiHighValue"
 			"NegativeColor"			"kitsuuiLowValue"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"AvenirBlack12"
+			"delta_item_font"		"Black12"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"AvenirBlack12"
+			"font"			"Black12"
 			"xpos"			"23"
 			"ypos"			"11"
 			"zpos"			"3"
@@ -126,7 +126,7 @@
 				"ypos"			"12"
 				"wide"			"35"
 				"tall"			"15"
-				"font"			"AvenirBlack12"
+				"font"			"Black12"
 				"fgcolor_override"	"kitsuuiLightBlack"
 				"bgcolor_override"	"kitsuuiRedTeamTrans"
 			}

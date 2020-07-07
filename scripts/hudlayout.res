@@ -449,7 +449,7 @@
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		"CornerRadius"		"0"
 		
-		"TextFont"		"AvenirBlack8"
+		"TextFont"		"Black8"
 		
 		"TeamBlue"		"kitsuuiBlueTeam"
 		"TeamRed"		"kitsuuiRedTeam"

@@ -22,7 +22,7 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"FreezeLabel"
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"xpos"			"3"
 			"ypos"			"r19"
 			"zpos"			"1"
@@ -67,7 +67,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller2"
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"5"
@@ -94,7 +94,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller2Shadow"
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"5"
@@ -213,7 +213,7 @@
 			{	
 				"ControlName"		"Label"
 				"fieldName"		"NemesisLabel"
-				"font"			"AvenirBlack12"
+				"font"			"Black12"
 				"xpos"			"134"
 				"ypos"			"10"
 				"zpos"			"6"
@@ -230,7 +230,7 @@
 			{	
 				"ControlName"		"Label"
 				"fieldName"		"NemesisLabel2"
-				"font"			"AvenirBlack8"
+				"font"			"Black8"
 				"xpos"			"134"
 				"ypos"			"10"
 				"zpos"			"6"
@@ -310,7 +310,7 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"ScreenshotLabel"
-			"font"			"AvenirHeavy8"
+			"font"			"Med8"
 			"xpos"			"40"
 			"ypos"			"25"
 			"zpos"			"2"

@@ -55,7 +55,7 @@
 			
 			"attriblabel"
 			{
-				"font"			"AvenirHeavy16"
+				"font"			"Med16"
 				"visible"		"0"
 			}
 			
@@ -113,7 +113,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"west"
 		"xpos"			"c-280"
@@ -151,7 +151,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TauntLabel"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"labelText"		"#TF_Taunt"
 		"textAlignment"	"west"
 		"xpos"			"c190"
@@ -242,7 +242,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"AvenirHeavy12"
+			"font"			"Med12"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"

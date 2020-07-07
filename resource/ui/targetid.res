@@ -76,7 +76,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 		"xpos"			"8"
 		"ypos"			"9999"
 		"zpos"			"1"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TargetNameLabel2"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 		"xpos"			"41"
 		"ypos"			"8"
 		"zpos"			"1"
@@ -118,7 +118,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"AvenirHeavy8"
+		"font"			"Med8"
 		"xpos"			"8"
 		"ypos"			"22"	
 		"zpos"			"1"
@@ -247,7 +247,7 @@
 		{	
 			"ControlName"		"Label"
 			"fieldName"		"MoveableKeyLabel"
-			"font"			"AvenirHeavy8"
+			"font"			"Med8"
 			"xpos"			"0"
 			"ypos"			"22"
 			"zpos"			"1"

@@ -190,7 +190,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"AvenirHeavy8"		
+			"font"			"Med8"		
 			"fgcolor"		"kitsuuiLightWhite"
 			"bgcolor_override"		"kitsuuiLightBlackTrans"
 			"xpos"			"33"			
@@ -397,7 +397,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"AvenirHeavy8"
+			"font"			"Med8"
 			"fgcolor"		"kitsuuiLightWhite"
 			"xpos"			"34"
 			"ypos"			"90"

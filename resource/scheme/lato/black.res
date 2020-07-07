@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"4"
 				"antialias"	"1"
 			}
@@ -15,7 +15,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"6"
 				"antialias"	"1"
 			}
@@ -24,7 +24,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"8"
 				"antialias"	"1"
 			}
@@ -33,7 +33,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"12"
 				"antialias"	"1"
 			}
@@ -42,7 +42,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"16"
 				"antialias"	"1"
 			}
@@ -51,7 +51,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"18"
 				"antialias"	"1"
 			}
@@ -60,7 +60,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"24"
 				"antialias"	"1"
 			}
@@ -69,7 +69,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"32"
 				"antialias"	"1"
 			}
@@ -78,7 +78,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"36"
 				"antialias"	"1"
 			}
@@ -87,7 +87,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"42"
 				"antialias"	"1"
 			}
@@ -96,7 +96,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"48"
 				"antialias"	"1"
 			}
@@ -105,7 +105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"56"
 				"antialias"	"1"
 			}
@@ -114,7 +114,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"64"
 				"antialias"	"1"
 			}
@@ -123,7 +123,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LatoBlack"
+				"name"		"Lato Black"
 				"tall"		"72"
 				"antialias"	"1"
 			}
@@ -133,8 +133,8 @@ Scheme
 	{
 		"114"
 		{
-			"font" "resource/fonts/lato/LatoBlack.ttf"
-			"name" "LatoBlack"
+			"font" "resource/fonts/lato/Lato-Black.ttf"
+			"name" "Lato Black"
 		}
 	}
 }

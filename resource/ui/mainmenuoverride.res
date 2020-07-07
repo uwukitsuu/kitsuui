@@ -744,7 +744,7 @@
 			"Command"		"motd_hide"
 			
 			
-			"defaultBgColor_override" "kitsuuiLightWhite"
+			"defaultBgColor_override" "kitsuuiGrey"
 			"armedBgColor_override" "kitsuuiTeamRed"			
 		}	
 

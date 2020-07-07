@@ -993,7 +993,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"xpos"			"230"
 		"ypos"			"0"
 		"wide"			"40"
@@ -1014,7 +1014,7 @@
 			"xpos"			"cs-0.51"
 			"ypos"			"cs-0.11"
 			"fgcolor"		"kitsuuiLightWhite"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 		}
 	}
 	
@@ -1022,7 +1022,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"xpos"			"232"
 		"ypos"			"1"
 		"wide"			"40"
@@ -1042,7 +1042,7 @@
 		{
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.11"
-			"font"			"AvenirBlack24"
+			"font"			"Black24"
 		}
 	}
 }

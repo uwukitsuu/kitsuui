@@ -74,7 +74,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 	}
 	"BuyBackLabel"
 	{
@@ -126,7 +126,7 @@
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
 		"textAlignment_lodef"		"north-west"
-		"font"			"AvenirHeavy8"
+		"font"			"Med8"
 	}
 	"SwitchCamModeKeyLabel"
 	{

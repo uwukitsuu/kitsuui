@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
-		"font"			"AvenirHeavy8"
+		"font"			"Med8"
 		"xpos"			"0"
 		"ypos"			"0"
 		"ypos_minmode"	"9999"

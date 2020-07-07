@@ -20,17 +20,17 @@
 
 			if_small
 			{
-				"font"	"AvenirHeavy8"
+				"font"	"Med8"
 			}
 
 			if_medium
 			{
-				"font"	"AvenirHeavy12"
+				"font"	"Med12"
 			}
 
 			if_large
 			{
-				"font"	"AvenirHeavy16"
+				"font"	"Med16"
 			}
 
 			"labelText"		"%tiptext%"

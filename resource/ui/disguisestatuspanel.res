@@ -58,7 +58,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"AvenirHeavy12"
+		"font"			"Med12"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"35"
 		"ypos"			"36"
@@ -79,7 +79,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"AvenirHeavy8"
+		"font"			"Med8"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"35"
 		"ypos"			"50"

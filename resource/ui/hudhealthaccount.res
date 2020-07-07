@@ -9,6 +9,6 @@
 		"PositiveColor"			"kitsuuiHealing"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"0.5"
-		"delta_item_font"		"AvenirHeavy16"
+		"delta_item_font"		"Med16"
 	}
 }

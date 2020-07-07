@@ -12,7 +12,7 @@
 		"RedRobotScoreColor"    "kitsuuiMedicDrop" // robot destruction
 		"BlueRobotScoreColor"   "kitsuuiMedicDrop" // robot destruction
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"AvenirBlack16"
-		"delta_item_font_big"	"AvenirBlack24"
+		"delta_item_font"		"Black16"
+		"delta_item_font_big"	"Black24"
 	}
 }

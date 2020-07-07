@@ -50,7 +50,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CapNumPlayers"
-		"font"			"AvenirBlack8"
+		"font"			"Black8"
 		"xpos"			"10"
 		"ypos"			"3"
 		"zpos"			"4"

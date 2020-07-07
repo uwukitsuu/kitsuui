@@ -57,14 +57,14 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 	}
 
 	"ItemEffectMeter"
 	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 		"xpos"					"47"
 		"ypos"					"28"
 		"zpos"					"2"

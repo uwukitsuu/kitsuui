@@ -51,7 +51,7 @@
 		"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
-		"font"					"AvenirHeavy12"
+		"font"					"Med12"
 		"fgcolor_override"		"kitsuuiLightWhite"
 		"mouseinputenabled"		"0"
 	}
@@ -71,7 +71,7 @@
 		"wrap"					"0"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
-		"font"					"AvenirHeavy8"
+		"font"					"Med8"
 		"fgcolor_override"		"kitsuuiLightWhite"
 		"mouseinputenabled"		"0"
 	}

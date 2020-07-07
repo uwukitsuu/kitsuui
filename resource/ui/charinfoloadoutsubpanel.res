@@ -194,7 +194,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ScoutLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Scout"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -243,7 +243,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"SoldierLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Soldier"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -292,7 +292,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"PyroLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Pyro"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -342,7 +342,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"DemoLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Demoman"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -391,7 +391,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"HeavyweaponsLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Heavy"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -440,7 +440,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"HeavyweaponsLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Engineer"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -489,7 +489,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"MedicLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Medic"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -538,7 +538,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"SniperLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Sniper"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -587,7 +587,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"SpyLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"Spy"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -635,7 +635,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowBackpackLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"#BackpackTitle"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -684,7 +684,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowCraftingLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"#CraftingExplanation_Title"
 		"fgcolor"		"kitsuuiLightWhite"
 		"textAlignment"	"north"
@@ -735,7 +735,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowArmoryLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"fgcolor"		"kitsuuiLightWhite"
 		"labelText"		"Catalog"
 		"textAlignment"	"north"
@@ -787,7 +787,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowTradeLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"fgcolor_override"	"kitsuuiLightWhite"
 		"labelText"		"#TradingExplanation_Title"
 		"textAlignment"	"north"
@@ -838,7 +838,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ShowPaintkitsLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"fgcolor"		"kitsuuiLightWhite"
 		"labelText"		"#PaintkitTitle"
 		"textAlignment"	"north"
@@ -863,7 +863,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ClassLabel"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 		"labelText"		"classname"
 		"textAlignment"	"north"
 		"xpos"			"-5"
@@ -919,7 +919,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NoGCLabel"
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"labelText"		"No Connection"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -937,7 +937,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SelectLabel"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"labelText"		"#SelectClassLoadout"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -1008,7 +1008,7 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 		"labelText"		"?"
-		"font"			"AvenirBlack24"
+		"font"			"Black24"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

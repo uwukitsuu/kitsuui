@@ -46,7 +46,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"5"			// align me to the left edge of the first selection
 		"ypos"			"30"
@@ -67,7 +67,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"fgcolor"		"kitsuuiLightBlack"
 		"xpos"			"7"			// align me to the left edge of the first selection
 		"ypos"			"31"
@@ -108,7 +108,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"AvenirHeavy8"
+		"font"			"Med8"
 		"xpos"			"-82"
 		"ypos"			"45"
 		"zpos"			"2"
@@ -395,7 +395,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1"
-		"font"			"AvenirHeavy24"
+		"font"			"Bold24"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"46"
 		"ypos"			"64"
@@ -416,7 +416,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2"
-		"font"			"AvenirHeavy24"
+		"font"			"Bold24"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"46"
 		"ypos"			"104"
@@ -437,7 +437,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3"
-		"font"			"AvenirHeavy24"
+		"font"			"Bold24"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"46"
 		"ypos"			"144"

@@ -13,7 +13,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"fgcolor"		"kitsuuiLightWhite"
 	}
 	"PlayerStatusHealthValueShadow"
@@ -28,7 +28,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"fgcolor"		"kitsuuiLightBlackTrans"
 	//	"paintbackgroundtype"	"2"
 		"bgcolor_override"		"kitsuuiLightBlackTrans"

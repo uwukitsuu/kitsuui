@@ -20,7 +20,7 @@
 		"outoffocus_bgcolor_override"	"kitsuuiLightBlack"
 		
 		"title"			"#CharInfoAndSetup"
-		"title_font"	"AvenirBlack24"
+		"title_font"	"Black24"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"kitsuuiLightBlack"
@@ -105,7 +105,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"AvenirBlack16"
+			"font"				"Black16"
 			"selectedcolor"		"kitsuuiLightWhite"
 			"unselectedcolor"	"kitsuuiLightBlack"	
 			"defaultBgColor_override"	"kitsuuiGrey"

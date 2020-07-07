@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SplashLabel"
-		"font"			"AvenirBlack16"
+		"font"			"Black16"
 		"labelText"		""
 		"textAlignment" "center"
 		"xpos"			"c-250"

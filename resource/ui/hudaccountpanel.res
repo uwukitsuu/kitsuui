@@ -8,7 +8,7 @@
 		"PositiveColor"			"kitsuuiHealing"
 		"NegativeColor"			"kitsuuiDamage"
 		"delta_lifetime"		"1"
-		"delta_item_font"		"AvenirHeavy16"
+		"delta_item_font"		"Med16"
 	}
 	
 	"AccountBG"
@@ -64,7 +64,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"AvenirHeavy16"
+		"font"			"Med16"
 		"fgcolor"		"kitsuuiLightWhite"
 	}
 }

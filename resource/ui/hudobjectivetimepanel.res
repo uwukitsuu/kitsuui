@@ -66,7 +66,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 
 		if_match
 		{
@@ -74,7 +74,7 @@
 			"xpos"					"0"
 			"ypos"					"21"
 			"wide"					"p1"
-			"font"					"AvenirBlack12"
+			"font"					"Black12"
 			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}			
@@ -117,7 +117,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 
 		if_match
 		{
@@ -125,7 +125,7 @@
 			"xpos"					"0"
 			"ypos"					"22"
 			"wide"					"p1"
-			"font"					"AvenirBlack12"
+			"font"					"Black12"
 			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}			
@@ -170,7 +170,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 
 		if_match
 		{
@@ -179,7 +179,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"AvenirBlack12"
+			"font"					"Black12"
 			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}			
@@ -231,7 +231,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 
 		if_match
 		{
@@ -239,7 +239,7 @@
 			"xpos"					"0"
 			"ypos"					"15"
 			"wide"					"p1"
-			"font"					"AvenirBlack12"
+			"font"					"Black12"
 			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}	
@@ -291,7 +291,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"AvenirBlack12"
+		"font"			"Black12"
 
 		if_match
 		{
@@ -300,7 +300,7 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"AvenirBlack12"
+			"font"					"Black12"
 			"fgcolor"				"kitsuuiLightWhite"
 		}
 	}	

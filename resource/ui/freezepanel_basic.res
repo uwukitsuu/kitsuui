@@ -67,7 +67,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller2"
-			"font"			"Med12"
+			"font"			"Semibold12"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"5"

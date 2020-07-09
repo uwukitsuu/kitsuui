@@ -33,7 +33,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		//Reserve Ammo and Killstreak Font
+		//Reserve Ammo Font
 		"kitsuuiAmmo24"
 		{
 			"1"

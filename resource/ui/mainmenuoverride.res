@@ -741,11 +741,7 @@
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"Command"		"motd_hide"
-			
-			
-			"defaultBgColor_override" "kitsuuiGrey"
-			"armedBgColor_override" "kitsuuiTeamRed"			
+			"Command"		"motd_hide"		
 		}	
 
 		"MOTD_HeaderIcon"

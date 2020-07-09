@@ -64,7 +64,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Med16"
+		"font"			"Semibold16"
 		"fgcolor"		"kitsuuiLightWhite"
 	}
 }

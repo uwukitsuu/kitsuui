@@ -1968,11 +1968,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lato Semibold"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"TextColor"	"Black"
+				"TextColor"	"kitsuuiLightBlack"
 				"antialias" 	"1"
 			}
 		}
@@ -1980,11 +1980,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lato Semibold"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"TextColor"	"Black"
+				"TextColor"	"kitsuuiLightBlack"
 				"antialias" 	"1"
 			}
 		}
@@ -2237,7 +2237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"Lato Semibold"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2248,7 +2248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"Lato Semibold"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2259,7 +2259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"Lato Semibold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2270,7 +2270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"Lato Semibold"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"

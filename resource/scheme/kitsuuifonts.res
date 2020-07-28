@@ -7,7 +7,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"BlackNumbers"
 				"tall"		"48"
 				"antialias"	"1"
 			}
@@ -17,7 +17,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"BlackNumbers"
 				"tall"		"15"
 				"antialias"	"1"
 			}
@@ -28,7 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"BlackNumbers"
 				"tall"		"48"
 				"antialias"	"1"
 			}
@@ -38,7 +38,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Black"
+				"name"		"Lato Bold"
 				"tall"		"24"
 				"antialias"	"1"
 			}
@@ -105,6 +105,15 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"kitsuuiMenuIconfontMed"
+		{
+			"1"
+			{
+				"name" 		"hud_font_a1"
+				"tall"		"22"
+				"antialias"	"1"
+			}
+		}
 		"kitsuuiMenuIconfont"
 		{
 			"1"
@@ -144,5 +153,10 @@ Scheme
 		{
 			"font" "resource/fonts/hud_font_a1.ttf"
 			"name" "hud_font_a1"
+		}
+		"16"
+		{
+			"font" "resource/fonts/BlackNumbers.ttf"
+			"name" "BlackNumbers"
 		}
 	}

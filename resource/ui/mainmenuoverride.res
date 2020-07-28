@@ -1814,7 +1814,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"textinsetx"	"3"
+			"textinsetx"	"4"
 			"use_proportional_insets" "1"
 			"font"			"kitsuuiMenuIconfont"
 			"textAlignment"	"west"

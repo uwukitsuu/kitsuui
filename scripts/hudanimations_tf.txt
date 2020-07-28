@@ -206,7 +206,7 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthValue 	FgColor		"kitsuuiHighValue"		Accel 0.0 0.2
+	Animate	PlayerStatusHealthValue 	FgColor		"kitsuuiOverheal"		Accel 0.0 0.2
 	RunEvent HudHealthBonusPulseLoop	0.0
 }
 event HudHealthBonusPulseLoop

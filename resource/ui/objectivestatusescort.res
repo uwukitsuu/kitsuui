@@ -81,7 +81,7 @@
 		"fieldName"		"HomeCPIcon"	
 		"xpos"			"66"		
 		"ypos"			"123"
-		"zpos"			"1"
+		"zpos"			"5"
 		"wide"			"10"
 		"tall"			"10"
 		"autoResize"	"0"
@@ -90,22 +90,22 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"image"			"../hud/cart_point_blue"
+		"image"			"../hud/cart_home_blue"
 		"scaleImage"	"1"	
 		
 		"if_team_red"
 		{
-			"image"			"../hud/cart_point_red"
+			"image"			"../hud/cart_home_red"
 		}
 		
 		"if_single_with_hills_blue"
 		{
-			"image"			"../hud/cart_point_blue_opaque"
+			"image"			"../hud/cart_home_blue"
 		}		
 		
 		"if_single_with_hills_red"
 		{
-			"image"			"../hud/cart_point_red_opaque"
+			"image"			"../hud/cart_home_red"
 		}		
 		
 		"if_multiple_trains"
@@ -129,12 +129,12 @@
 		
 		"if_multiple_trains_red"
 		{
-			"image"			"../hud/cart_point_red"
+			"image"			"../hud/cart_home_red"
 		}
 		
 		"if_multiple_trains_blue"
 		{
-			"image"			"../hud/cart_point_blue"
+			"image"			"../hud/cart_home_blue"
 		}
 	}
 	

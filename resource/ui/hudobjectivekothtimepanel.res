@@ -65,7 +65,7 @@
 				"wide"			"35"
 				"font"			"Black12"
 				"fgcolor_override"	"kitsuuiLightBlack"
-				"bgcolor_override"	"kitsuuiBlueTeamTrans"
+				"bgcolor_override"	"kitsuuiBlueTeam"
 			}
 		}	
 	}
@@ -128,7 +128,7 @@
 				"tall"			"15"
 				"font"			"Black12"
 				"fgcolor_override"	"kitsuuiLightBlack"
-				"bgcolor_override"	"kitsuuiRedTeamTrans"
+				"bgcolor_override"	"kitsuuiRedTeam"
 			}
 		}	
 	}

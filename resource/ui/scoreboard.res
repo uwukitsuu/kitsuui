@@ -452,15 +452,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ServerTimeLeftInsetBG"
-		"xpos"			"286"
-		"ypos"			"58"
-		"zpos"			"1"
-		"wide"			"68"
-		"tall"			"23"
+		"xpos"			"266"
+		"ypos"			"78"
+		"zpos"			"-5"
+		"wide"			"108"
+		"tall"			"20"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"kitsuuiLightBlackTrans"
+		"bgcolor_override"	"kitsuuiLightBlack"
+		"alpha"			"130"
 
 		if_mvm
 		{
@@ -475,7 +476,7 @@
 		"labelText"		"#Scoreboard_TimeLeftLabel"
 		"textAlignment"		"center"
 		"xpos"			"284"
-		"ypos"			"2"
+		"ypos"			"100"
 		"zpos"			"2"
 		"wide"			"72"
 		"tall"			"10"
@@ -498,7 +499,7 @@
 		"labelText"		"%servertime%"
 		"textAlignment"		"center"
 		"xpos"			"284"
-		"ypos"			"58"
+		"ypos"			"95"
 		"zpos"			"2"
 		"wide"			"72"
 		"tall"			"20"
@@ -653,7 +654,7 @@
 	}							
 	"ShadedBar"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
 		"xpos"			"4"
 		"ypos"			"372"
@@ -665,7 +666,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"0 0 0 153"
+		"fillcolor"		"kitsuuiLightBlack"
+		"alpha"			"130"
 		"PaintBackgroundType"	"0"
 		
 		if_mvm
@@ -903,11 +905,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"Med8"
+		"font"			"Semibold8"
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
  		"xpos"			"280"
-		"ypos"			"88"
+		"ypos"			"82"
 		"zpos"			"3"
 		"wide"			"80"
 		"tall"			"12"
@@ -1182,7 +1184,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
-		"xpos"			"0"
+		"xpos"			"5"
 		"ypos"			"360"
 		"zpos"			"3"
 		"wide"			"250"

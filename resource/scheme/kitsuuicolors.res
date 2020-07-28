@@ -5,6 +5,7 @@ Scheme
 		//General values
 		"kitsuuiHighValue"	"56 245 110 255"
 		"kitsuuiLowValue"	"245 110 56 255"
+		"kitsuuiOverheal"	"71 175 255 255" //tide
 		
 		//Damage numbers
 		"kitsuuiHealing"	"56 245 110 255"

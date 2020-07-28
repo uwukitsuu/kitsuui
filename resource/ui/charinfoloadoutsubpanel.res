@@ -955,11 +955,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"LoadoutChangesLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"Semibold16"
 		"labelText"		"#LoadoutChangesUpdate"
 		"textAlignment"	"north"
 		"xpos"			"0"
-		"ypos"			"35"
+		"ypos"			"45"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"30"
@@ -967,7 +967,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "kitsuuiKitsune"
 	}
 	
 	"class_loadout_panel"

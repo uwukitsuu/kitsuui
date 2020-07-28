@@ -330,7 +330,7 @@
 				"wide"			"30"
 				"tall"			"15"
 				"font"			"Black12"
-				"bgcolor_override"	"kitsuuiLightBlackTrans"
+				"bgcolor_override"	"kitsuuiLightBlack"
 			}
 		}	
 	}
@@ -460,7 +460,7 @@
 				"dulltext"				"0"
 				"brighttext"			"0"
 				"bgcolor_override"	   "kitsuuiLightWhite"
-				"fgcolor_override"	   "kitsuuiHighValue"
+				"fgcolor_override"	   "kitsuuiOverheal"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
@@ -519,7 +519,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"Med8"
+				"font"			"Bold8"
 				"fgcolor"		"kitsuuiLightWhite"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
@@ -529,6 +529,7 @@
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
+				"enabled"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"

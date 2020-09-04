@@ -199,7 +199,7 @@
 		
 		"render_texture"	"0"
 		"fov"			"30"
-		"allow_manip"	"1"
+		"allow_manip"	"0"
 				
 		"model"
 		{

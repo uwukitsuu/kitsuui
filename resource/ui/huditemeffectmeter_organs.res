@@ -37,7 +37,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"25"
-		"ypos"					"27"
+		"ypos"					"23"
 		"ypos_minmode"			"9999"
 		"zpos"					"2"
 		"wide"					"41"
@@ -96,7 +96,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"Bold24"
+		"font"					"Bold16"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -117,6 +117,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightBlackTrans"
-		"font"					"Bold24"
+		"font"					"Bold16"
 	}
 }

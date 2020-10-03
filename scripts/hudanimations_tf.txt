@@ -1429,14 +1429,14 @@ event HudTournament_MoveChatWindow
 event HudTournament_MoveTimerDown
 {
 	Animate CountdownLabel ypos 75 Linear 0 0
-	Animate CountdownLabelShadow ypos 75 Linear 0 0
+	Animate CountdownLabelShadow ypos 76 Linear 0 0
 
 	SetVisible CountdownBG 0 5
 	SetVisible CountdownLabel 1 0
 	SetVisible CountdownLabelShadow 1 0
 
-	Animate CountdownLabel ypos 75 Gain 0.75 0 0.4
-	Animate CountdownLabelShadow ypos 75 Gain 0.75 0 0.4
+	Animate CountdownLabel ypos 90 Gain 0.75 0 0.4
+	Animate CountdownLabelShadow ypos 90 Gain 0.75 0 0.4
 
 	SetVisible	TournamentConditionLabel 0 2
 
@@ -1507,10 +1507,10 @@ event HudMatchStatus_ShowCountdown
 {
 	SetVisible CountdownLabel 1 0
 	SetVisible CountdownLabelShadow 1 0
-	Animate CountdownLabel ypos 100 Linear 0 0
-	Animate CountdownLabelShadow ypos 101 Linear 0 0
-	Animate CountdownLabel ypos c-3 Gain 0.75 0 0.4
-	Animate CountdownLabelShadow ypos c-0 Gain 0.75 0 0.4
+	Animate CountdownLabel ypos 75 Linear 0 0
+	Animate CountdownLabelShadow ypos 76 Linear 0 0
+	Animate CountdownLabel ypos 90 Gain 0.75 0 0.4
+	Animate CountdownLabelShadow ypos 91 Gain 0.75 0 0.4
 	SetVisible CountdownLabel 0 9.9
 	SetVisible CountdownLabelShadow 0 9.9
 }

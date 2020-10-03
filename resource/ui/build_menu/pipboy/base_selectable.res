@@ -20,7 +20,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"xpos"			"10"
 		"ypos"			"2"
 		"zpos"			"1"

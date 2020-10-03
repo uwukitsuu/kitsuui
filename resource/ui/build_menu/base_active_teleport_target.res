@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"xpos"			"10"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -55,7 +55,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
-		"font"			"DefaultSmall"
+		"font"			"SemiBold8"
 		"fgcolor"		"TanDarker"
 		"xpos"			"33"
 		"ypos"			"17"
@@ -90,7 +90,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Bold24"
+		"font"			"SemiBold16"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"-24"
 		"ypos"			"40"

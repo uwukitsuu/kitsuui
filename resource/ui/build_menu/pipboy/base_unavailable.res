@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"fgcolor"		"kitsuuiHighValue"
 		"xpos"			"10"
 		"ypos"			"20"
@@ -40,7 +40,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"fgcolor"		"kitsuuiLowValue"
 		"xpos"			"-14"
 		"ypos"			"40"
@@ -96,7 +96,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
-		"font"			"DefaultSmall"
+		"font"			"SemiBold8Small"
 		"fgcolor"		"TanDark"
 		"xpos"			"33"
 		"ypos"			"17"

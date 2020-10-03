@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"mouseinputenabled"	"0"
 		"font"			"kitsuuiMenuIconfontTiny"
-		"fgcolor"		"kitsuuiLightWhite"
+		"fgcolor"		"kitsuuiKitsune"
 		"labeltext"		"D"
 		"textinsetx"	"0"
 	}

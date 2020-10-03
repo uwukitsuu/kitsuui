@@ -93,7 +93,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightWhite"
-		"font"					"Bold24"
+		"font"					"Bold16"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -113,6 +113,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"kitsuuiLightBlackTrans"
-		"font"					"Bold24"
+		"font"					"Bold16"
 	}
 }

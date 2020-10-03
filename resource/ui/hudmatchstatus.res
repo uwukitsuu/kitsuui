@@ -589,13 +589,13 @@
 				"fieldName"		"SkullPanel"
 				"xpos"			"cs-0.5"
 				"zpos"			"0"
-				"wide"			"6"
-				"tall"			"6"
-				"visible"		"1"
-				"enabled"		"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"	
-				"image"	"replay\thumbnails\death"
+				"image"	""
 				"fgcolor_override"	"kitsuuiLightWhite"
 			}
 		}

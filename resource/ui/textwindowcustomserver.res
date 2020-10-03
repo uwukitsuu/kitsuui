@@ -33,9 +33,31 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ChalkboardTitle"
-		"fgcolor"		"White"
+		"font"			"Bold24"
+		"allcaps"		"1"
+		"fgcolor"		"kitsuuiKitsune"
 	}	
+	
+	"ScrollBarHider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ScrollBarHider"
+		"xpos"			"c185"
+		"ypos"			"100"
+		"zpos"			"1000"
+		"wide"			"50"
+		"tall"			"265"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		""
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"Med12"
+		"fillcolor"		"kitsuuiLightBlack"
+	}
 
 	"TextMessage"
 	{
@@ -49,7 +71,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"ChalkboardText"
+		"font"			"Med12"
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
@@ -61,32 +83,33 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
-		"fgcolor"		"Gray"
+		"fgcolor"		"kitsuuiLightWhite"
 	}
 
-	"HTMLMessage"
+	"messageBG"
 	{
-		"ControlName"		"HTML"
-		"fieldName"		"HTMLMessage"
-		"xpos"			"c-320"
-		"ypos"			"0"
+		"ControlName"		"ImagePanel"
+		"fieldName"		"messageBG"
+		"xpos"			"c-188"
+		"ypos"			"95"
 		"zpos"			"1"
-		"wide"			"640"
-		"tall"			"430"
+		"wide"			"425"
+		"tall"			"275"
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"paintborder"	"0"
+		"fillcolor"		"kitsuuiLightBlack"
 	}
 	
 	"ok"
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"ok"
-		"xpos"			"r190"
-		"ypos"			"r40"
+		"xpos"			"c-60"
+		"ypos"			"r100"
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -99,15 +122,19 @@
 		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
+		"roundedcorners"	"0"
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"MenuSmallFont"
+		"font"			"SemiBold16"
+		"fgcolor"			"kitsuuiLightBlack"
+		"armedfgcolor_override"			"kitsuuiLightWhite"
+		"defaultfgcolor_override"		"kitsuuiLightBlack"
 	}
 	
 	"MenuBG"
 	{
-		"ControlName"	"CModelPanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -118,19 +145,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fov"			"20"
-		
-		"model"
-		{
-			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
-			"skin"		"0"
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "290"
-			"origin_y" "0"
-			"origin_z" "-39"
-		}
+		"fillcolor"		"Black"
+		"alpha"			"180"
 	}
 	
 	"ShadedBar"
@@ -144,8 +160,8 @@
 		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
@@ -158,5 +174,5 @@
 		"fieldName"		"MessageTitle"
 		"visible"		"0"
 		"enabled"		"0"
-	}		
+	}			
 }

@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"10"
 		"ypos"			"20"
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"fgcolor"		"kitsuuiHighValue"
 		"xpos"			"-15"
 		"ypos"			"40"
@@ -78,7 +78,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"fgcolor"		"kitsuuiLightWhite"
 		"xpos"			"23"
 		"ypos"			"17"
@@ -97,7 +97,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
-		"font"			"DefaultSmall"
+		"font"			"SemiBold8Small"
 		"fgcolor"		"TanDark"
 		"xpos"			"33"
 		"ypos"			"17"

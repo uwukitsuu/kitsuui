@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"xpos"			"10"
 		"ypos"			"20"
 		"zpos"			"1"
@@ -40,7 +40,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NotBuiltLabel"
-		"font"			"Default"
+		"font"			"SemiBold8"
 		"fgcolor"		"kitsuuiHighValue"
 		"xpos"			"-15"
 		"ypos"			"40"

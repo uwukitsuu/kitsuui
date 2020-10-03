@@ -18,7 +18,7 @@
 		"infocus_bgcolor_override" "kitsuuiLightBlack"
 		"outoffocus_bgcolor_override" "kitsuuiLightBlack"
 		
-		"selectlabely_default"		"25"
+		"selectlabely_default"		"15"
 		"selectlabely_onchanges"	"15"
 		
 		"class_ypos"				"120"
@@ -32,6 +32,20 @@
 
 		"itemcountcolor"			"kitsuuiKitsune"
 		"itemcountcolor_noitems"	"kitsuuiLightWhite"
+	}
+	"TopLine"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TopLine"
+		"xpos"			"c-310"
+		"ypos"			"40"
+		"zpos"			"2"
+		"wide"			"615"
+		"tall"			"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			""
+		"fillcolor"		"kitsuuiKitsune"
 	}
 	"scout"
 	{
@@ -876,6 +890,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"allcaps"		"1"
+		"fgcolor_override"	"kitsuuiLightWhite"
 	}
 	"ItemsLabel"
 	{

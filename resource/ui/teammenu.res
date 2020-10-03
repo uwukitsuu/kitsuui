@@ -29,7 +29,7 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 	}
-
+	
 	"MapInfo"
 	{
 		"ControlName"	"HTML"
@@ -89,6 +89,7 @@
 		"hover"				"2.0"
 		"font"			"Bold24"
 		"roundedcorners"	"0"
+		"fgcolor"			"kitsuuiLightBlack"
 		"armedfgcolor_override"			"kitsuuiLightWhite"
 		"defaultfgcolor_override"		"kitsuuiLightBlack"
 		"armedbgcolor_override"			"kitsuuiBlueTeam"
@@ -121,6 +122,7 @@
 		"hover"				"2.0"
 		"font"			"Bold24"
 		"roundedcorners"	"0"
+		"fgcolor"			"kitsuuiLightBlack"
 		"armedfgcolor_override"			"kitsuuiLightWhite"
 		"defaultfgcolor_override"		"kitsuuiLightBlack"
 		"armedbgcolor_override"			"kitsuuiRedTeam"
@@ -150,6 +152,7 @@
 		"associated_model"	"autodoor"
 		"font"			"SemiBold24"
 		"roundedcorners"	"0"
+		"fgcolor"			"kitsuuiLightBlack"
 		"armedfgcolor_override"			"kitsuuiLightWhite"
 		"defaultfgcolor_override"		"kitsuuiLightBlack"
 		"armedbgcolor_override"			"kitsuuiKitsune"
@@ -181,6 +184,7 @@
 		"associated_model"	"spectate"	
 		"font"			"SemiBold24"
 		"roundedcorners"	"0"
+		"fgcolor"			"kitsuuiLightBlack"
 		"armedfgcolor_override"			"kitsuuiLightWhite"
 		"defaultfgcolor_override"		"kitsuuiLightBlack"
 		"armedbgcolor_override"			"kitsuuiKitsune"

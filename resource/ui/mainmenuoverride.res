@@ -368,7 +368,7 @@
 		"wide"			"200"
 		"tall"			"70"
 		"visible"		"1"
-		"font"			"Black24"	
+		"font"			"Bold24"	
 		"fgcolor_override"		"kitsuuiRedTeam"
 		"labelText"		"No Connection"
 	}
@@ -696,7 +696,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"MOTD_HeaderLabel"
-				"font"			"Black24"
+				"font"			"Bold24"
 				"textAlignment"	"center"
 				"labelText"		"%motdheader%"
 				"xpos"			"0"
@@ -1236,7 +1236,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"Black24"
+			"font"			"Bold24"
 			"labelText"		"Friends"
 			"textAlignment"	"west"
 			"xpos"			"5"
@@ -2038,7 +2038,7 @@
 		"wide"			"200"
 		"tall"			"70"
 		"visible"		"1"
-		"font"			"Black24"	
+		"font"			"Bold24"	
 		"fgcolor"		"kitsuuiKitsune"
 		"labelText"		"kitsuui"
 		
